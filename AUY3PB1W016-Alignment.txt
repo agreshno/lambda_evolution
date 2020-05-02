@@ -1,0 +1,2472 @@
+RID: AUY3PB1W016	
+Job Title:NC_001416:Enterobacteria phage lambda, complete...				
+Program: BLASTN 
+Database: nt Nucleotide collection (nt)
+Query #1: Enterobacteria phage lambda, complete genome Query ID: ref|NC_001416.1 Length: 713
+
+Sequences producing significant alignments:
+                                                                  Max    Total Query    E    Per.                  
+Description                                                       Score  Score cover Value  Ident  Accession        
+Enterobacteria phage SfI, complete genome                         1319   1319  100%  0.0    100.00 JX509734.1       
+Escherichia phage Lambda, complete genome                         1319   1319  100%  0.0    100.00 J02459.1         
+Escherichia virus Lambda genome assembly, chromosome: 1           1314   1314  100%  0.0    99.86  LR597639.1       
+Bacteriophage lambda cI gene encoding the repressor protein fo... 1314   1314  99%   0.0    100.00 X00166.1         
+Bacteriophage sp. isolate 528, complete genome                    1308   1308  100%  0.0    99.72  MN855687.1       
+Bacteriophage sp. isolate 181, complete genome                    1308   1308  100%  0.0    99.72  MN855678.1       
+Enterobacteria phage HK244 hypothetical protein (HK24402) gene... 1286   1286  100%  0.0    99.16  EF120457.1       
+Enterobacteria phage HK542, complete genome                       1280   1280  100%  0.0    99.02  JQ086373.1       
+Enterobacteria phage HK542 hypothetical protein (HK542c101),...   1280   1280  100%  0.0    99.02  EF120458.1       
+Enterobacteria phage HK544, complete genome                       1269   1269  100%  0.0    98.74  JQ086374.1       
+Enterobacteria phage HK544 restriction alleviation (ral) gene,... 1269   1269  100%  0.0    98.74  EF120455.1       
+Enterobacteria phage CL707 IS10 transposase (IS10 transposase)... 1230   1230  100%  0.0    97.76  EF120459.1       
+Bacteriophage HK97, complete genome                               1229   1229  99%   0.0    97.89  AF069529.1       
+Enterobacterial phage mEp234, complete genome                     1223   1223  99%   0.0    97.75  JQ182732.1       
+Enterobacteria phage HK106, complete genome                       1223   1223  99%   0.0    97.75  JQ086369.1       
+Enterobacteria phage HK106 conserved hypothetical protein...      1223   1223  99%   0.0    97.75  EF120461.1       
+Enterobacteria phage mEp234 conserved hypothetical protein...     1223   1223  99%   0.0    97.75  EF120460.1       
+Escherichia virus Lambda genome assembly, chromosome: 1           1208   1208  100%  0.0    97.20  LR597635.1       
+Enterobacteria phage mEp332 restriction alleviation (ral),...     1168   1168  99%   0.0    96.34  EF120456.1       
+Escherichia virus Lambda_2G7b genome assembly, chromosome: 1      643    643   57%   0.0    94.89  LR595866.1       
+Escherichia virus Lambda genome assembly, chromosome: 1           610    610   57%   6e-172 93.43  LR597643.1       
+Escherichia virus Lambda genome assembly, chromosome: 1           610    610   57%   6e-172 93.43  LR597636.1       
+Escherichia virus Lambda_2B8 genome assembly, chromosome: 1       610    610   57%   6e-172 93.43  LR595859.1       
+Stx2-converting phage Stx2a F578 genes for Shiga toxin 2...       603    603   57%   1e-169 93.37  LC487997.1       
+Stx2-converting phage Stx2a 981509 genes for Shiga toxin 2...     603    603   57%   1e-169 93.37  LC487996.1       
+Stx2-converting phage Stx2a_WGPS8 proviral DNA, complete genome   603    603   57%   1e-169 93.37  AP012540.1       
+Stx2-converting phage Stx2a_WGPS6 proviral DNA, complete genome   603    603   57%   1e-169 93.37  AP012539.1       
+Stx2-converting phage Stx2a_WGPS4 proviral DNA, complete genome   603    603   57%   1e-169 93.37  AP012538.1       
+Stx2-converting phage Stx2a_F349 proviral DNA, complete genome    603    603   57%   1e-169 93.37  AP012530.1       
+Escherichia phage PA12, complete genome                           603    603   57%   1e-169 93.37  KP682376.1       
+Escherichia phage PA52, complete genome                           603    603   57%   1e-169 93.37  KP682392.1       
+Escherichia phage PA50, complete genome                           603    603   57%   1e-169 93.37  KP682390.1       
+Escherichia phage PA45, complete genome                           603    603   57%   1e-169 93.37  KP682389.1       
+Escherichia phage PA42, complete genome                           603    603   57%   1e-169 93.37  KP682387.1       
+Escherichia phage PA36, complete genome                           603    603   57%   1e-169 93.37  KP682386.1       
+Escherichia phage PA32, complete genome                           603    603   57%   1e-169 93.37  KP682384.1       
+Escherichia phage PA29, complete genome                           603    603   57%   1e-169 93.37  KP682382.1       
+Escherichia phage PA27, complete genome                           603    603   57%   1e-169 93.37  KP682380.1       
+Escherichia phage PA21, complete genome                           603    603   57%   1e-169 93.37  KP682379.1       
+Escherichia phage PA16, complete genome                           603    603   57%   1e-169 93.37  KP682377.1       
+Escherichia phage PA11, complete genome                           603    603   57%   1e-169 93.37  KP682375.1       
+Escherichia phage PA5, complete genome                            603    603   57%   1e-169 93.37  KP682373.1       
+Escherichia phage PA4, complete genome                            603    603   57%   1e-169 93.37  KP682372.1       
+Escherichia Stx1-converting recombinant phage HUN/2013, comple... 603    603   57%   1e-169 93.37  KJ909655.1       
+Stx2-converting phage 1717, complete genome                       603    603   57%   1e-169 93.37  FJ188381.1       
+Enterobacteria phage YYZ-2008, complete genome                    603    603   57%   1e-169 93.37  FJ184280.1       
+Enterobacteria phage 2851, complete genome                        603    603   57%   1e-169 93.37  FM180578.1       
+Stx2 converting phage II DNA, complete genome                     603    603   57%   1e-169 93.37  AP005154.1       
+Stx1 converting phage DNA, complete genome                        603    603   57%   1e-169 93.37  AP005153.1       
+Bacteriophage Nil2 proviral n gene, ORF22, ci gene, cro gene,...  603    603   57%   1e-169 93.37  AJ413274.1       
+Enterobacteria phage VT2-Sakai cI gene for repressor protein,...  603    603   57%   1e-169 93.37  AB037107.1       
+Enterobacteria phage VT2-Sakai proviral DNA, complete genome      603    603   57%   1e-169 93.37  AP000363.1       
+Escherichia phage phi-8 mobile element protein (gam), Kil...      597    597   57%   5e-168 93.12  KF241843.1       
+Enterobacteria phage VT2-Sakai genomic DNA, prophage inserted...  597    597   57%   5e-168 93.12  AP000422.1       
+rex gene of phage lambda                                          78.7   78.7  5%    8e-12  100.00 V00639.1         
+
+
+Alignments:
+>Enterobacteria phage SfI, complete genome
+Sequence ID: JX509734.1 Length: 38389 
+Range 1: 29783 to 30496
+
+Score:1319 bits(714), Expect:0.0, 
+Identities:714/714(100%),  Gaps:0/714(0%), Strand: Plus/Plus
+
+Query  37227  TCAGCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  37286
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  29783  TCAGCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  29842
+
+Query  37287  CTCATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  37346
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  29843  CTCATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  29902
+
+Query  37347  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATC  37406
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  29903  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATC  29962
+
+Query  37407  ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  37466
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  29963  ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  30022
+
+Query  37467  CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  37526
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30023  CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  30082
+
+Query  37527  ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  37586
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30083  ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  30142
+
+Query  37587  CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  37646
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30143  CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  30202
+
+Query  37647  AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  37706
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30203  AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  30262
+
+Query  37707  GCTAAATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATT  37766
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30263  GCTAAATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATT  30322
+
+Query  37767  TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  37826
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30323  TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  30382
+
+Query  37827  TGCGACAGATTCCTGGGATAAGCCAAGTTCAtttttctttttttCATAAATTGCTTTAAG  37886
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30383  TGCGACAGATTCCTGGGATAAGCCAAGTTCATTTTTCTTTTTTTCATAAATTGCTTTAAG  30442
+
+Query  37887  GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  37940
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30443  GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  30496
+
+
+
+>Escherichia phage Lambda, complete genome
+Sequence ID: J02459.1 Length: 48502 
+Range 1: 37227 to 37940
+
+Score:1319 bits(714), Expect:0.0, 
+Identities:714/714(100%),  Gaps:0/714(0%), Strand: Plus/Plus
+
+Query  37227  TCAGCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  37286
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37227  TCAGCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  37286
+
+Query  37287  CTCATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  37346
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37287  CTCATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  37346
+
+Query  37347  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATC  37406
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37347  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATC  37406
+
+Query  37407  ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  37466
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37407  ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  37466
+
+Query  37467  CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  37526
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37467  CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  37526
+
+Query  37527  ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  37586
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37527  ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  37586
+
+Query  37587  CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  37646
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37587  CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  37646
+
+Query  37647  AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  37706
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37647  AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  37706
+
+Query  37707  GCTAAATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATT  37766
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37707  GCTAAATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATT  37766
+
+Query  37767  TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  37826
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37767  TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  37826
+
+Query  37827  TGCGACAGATTCCTGGGATAAGCCAAGTTCAtttttctttttttCATAAATTGCTTTAAG  37886
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37827  TGCGACAGATTCCTGGGATAAGCCAAGTTCATTTTTCTTTTTTTCATAAATTGCTTTAAG  37886
+
+Query  37887  GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  37940
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37887  GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  37940
+
+
+
+>Escherichia virus Lambda genome assembly, chromosome: 1
+Sequence ID: LR597639.1 Length: 45560 
+Range 1: 35377 to 36090
+
+Score:1314 bits(711), Expect:0.0, 
+Identities:713/714(99%),  Gaps:0/714(0%), Strand: Plus/Plus
+
+Query  37227  TCAGCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  37286
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35377  TCAGCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  35436
+
+Query  37287  CTCATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  37346
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35437  CTCATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  35496
+
+Query  37347  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATC  37406
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35497  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATC  35556
+
+Query  37407  ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  37466
+              |||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35557  ACCTGGCTCAACAGTCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  35616
+
+Query  37467  CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  37526
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35617  CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  35676
+
+Query  37527  ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  37586
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35677  ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  35736
+
+Query  37587  CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  37646
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35737  CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  35796
+
+Query  37647  AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  37706
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35797  AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  35856
+
+Query  37707  GCTAAATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATT  37766
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35857  GCTAAATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATT  35916
+
+Query  37767  TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  37826
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35917  TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  35976
+
+Query  37827  TGCGACAGATTCCTGGGATAAGCCAAGTTCAtttttctttttttCATAAATTGCTTTAAG  37886
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35977  TGCGACAGATTCCTGGGATAAGCCAAGTTCATTTTTCTTTTTTTCATAAATTGCTTTAAG  36036
+
+Query  37887  GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  37940
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  36037  GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  36090
+
+
+
+>Bacteriophage lambda cI gene encoding the repressor protein for transcriptional control of tetracycline resistance on plasmid pTR 262
+Sequence ID: X00166.1 Length: 711 
+Range 1: 1 to 711
+
+Score:1314 bits(711), Expect:0.0, 
+Identities:711/711(100%),  Gaps:0/711(0%), Strand: Plus/Minus
+
+Query  37230  GCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTC  37289
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  711    GCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTC  652
+
+Query  37290  ATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATC  37349
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  651    ATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATC  592
+
+Query  37350  CCTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACC  37409
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  591    CCTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACC  532
+
+Query  37410  TGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTT  37469
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  531    TGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTT  472
+
+Query  37470  GGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACT  37529
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  471    GGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACT  412
+
+Query  37530  GGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTC  37589
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  411    GGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTC  352
+
+Query  37590  AGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCTAAG  37649
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  351    AGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCTAAG  292
+
+Query  37650  TGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGGGCT  37709
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  291    TGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGGGCT  232
+
+Query  37710  AAATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATTTAA  37769
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  231    AAATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATTTAA  172
+
+Query  37770  TGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTCTGC  37829
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  171    TGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTCTGC  112
+
+Query  37830  GACAGATTCCTGGGATAAGCCAAGTTCAtttttctttttttCATAAATTGCTTTAAGGCG  37889
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  111    GACAGATTCCTGGGATAAGCCAAGTTCATTTTTCTTTTTTTCATAAATTGCTTTAAGGCG  52
+
+Query  37890  ACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  37940
+              |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  51     ACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  1
+
+
+
+>Bacteriophage sp. isolate 528, complete genome
+Sequence ID: MN855687.1 Length: 5102 
+Range 1: 1308 to 2021
+
+Score:1308 bits(708), Expect:0.0, 
+Identities:712/714(99%),  Gaps:0/714(0%), Strand: Plus/Plus
+
+Query  37227  TCAGCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  37286
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1308   TCAGCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  1367
+
+Query  37287  CTCATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  37346
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1368   CTCATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  1427
+
+Query  37347  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATC  37406
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1428   ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATC  1487
+
+Query  37407  ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  37466
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1488   ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  1547
+
+Query  37467  CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  37526
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1548   CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  1607
+
+Query  37527  ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  37586
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1608   ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  1667
+
+Query  37587  CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  37646
+              || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1668   CTTAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  1727
+
+Query  37647  AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  37706
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1728   AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  1787
+
+Query  37707  GCTAAATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATT  37766
+              ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||
+Sbjct  1788   GCTAAATTCTTCAACGCTAACTTTGAGAATTTTTGTAAGCAATGCGGCGTTATAAGCATT  1847
+
+Query  37767  TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  37826
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1848   TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  1907
+
+Query  37827  TGCGACAGATTCCTGGGATAAGCCAAGTTCAtttttctttttttCATAAATTGCTTTAAG  37886
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1908   TGCGACAGATTCCTGGGATAAGCCAAGTTCATTTTTCTTTTTTTCATAAATTGCTTTAAG  1967
+
+Query  37887  GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  37940
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1968   GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  2021
+
+
+
+>Bacteriophage sp. isolate 181, complete genome
+Sequence ID: MN855678.1 Length: 11504 
+Range 1: 10529 to 11242
+
+Score:1308 bits(708), Expect:0.0, 
+Identities:712/714(99%),  Gaps:0/714(0%), Strand: Plus/Minus
+
+Query  37227  TCAGCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  37286
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11242  TCAGCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  11183
+
+Query  37287  CTCATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  37346
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11182  CTCATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  11123
+
+Query  37347  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATC  37406
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11122  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATC  11063
+
+Query  37407  ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  37466
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11062  ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  11003
+
+Query  37467  CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  37526
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11002  CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  10943
+
+Query  37527  ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  37586
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10942  ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  10883
+
+Query  37587  CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  37646
+              || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10882  CTTAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  10823
+
+Query  37647  AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  37706
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10822  AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  10763
+
+Query  37707  GCTAAATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATT  37766
+              ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||
+Sbjct  10762  GCTAAATTCTTCAACGCTAACTTTGAGAATTTTTGTAAGCAATGCGGCGTTATAAGCATT  10703
+
+Query  37767  TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  37826
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10702  TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  10643
+
+Query  37827  TGCGACAGATTCCTGGGATAAGCCAAGTTCAtttttctttttttCATAAATTGCTTTAAG  37886
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10642  TGCGACAGATTCCTGGGATAAGCCAAGTTCATTTTTCTTTTTTTCATAAATTGCTTTAAG  10583
+
+Query  37887  GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  37940
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10582  GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  10529
+
+
+
+>Enterobacteria phage HK244 hypothetical protein (HK24402) gene, partial cds; and hypothetical protein (HK24401), antitermination protein (N), hypothetical protein (HK24404), hypothetical protein (HK24405), prophage repressor (cI), repressor (cro), and transcriptional activator (cII) genes, complete cds
+Sequence ID: EF120457.1 Length: 3921 
+Range 1: 2501 to 3214
+
+Score:1286 bits(696), Expect:0.0, 
+Identities:708/714(99%),  Gaps:0/714(0%), Strand: Plus/Plus
+
+Query  37227  TCAGCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  37286
+              ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2501   TCACCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  2560
+
+Query  37287  CTCATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  37346
+              |||||||||||||||||||||||| |||||||||||||| |||| |||||||||||||||
+Sbjct  2561   CTCATTGCATGGGATCATTGGGTATTGTGGGTTTAGTGGCTGTAGAAACACCTGACCGCT  2620
+
+Query  37347  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATC  37406
+              ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  2621   ATCCCTGATCAGTTTCTTGAAGGTAAATTCATCACCCCCAAGTCTGGCTATGCAGAAATC  2680
+
+Query  37407  ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  37466
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2681   ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  2740
+
+Query  37467  CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  37526
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2741   CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  2800
+
+Query  37527  ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  37586
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2801   ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  2860
+
+Query  37587  CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  37646
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2861   CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  2920
+
+Query  37647  AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  37706
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2921   AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  2980
+
+Query  37707  GCTAAATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATT  37766
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2981   GCTAAATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATT  3040
+
+Query  37767  TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  37826
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3041   TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  3100
+
+Query  37827  TGCGACAGATTCCTGGGATAAGCCAAGTTCAtttttctttttttCATAAATTGCTTTAAG  37886
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3101   TGCGACAGATTCCTGGGATAAGCCAAGTTCATTTTTCTTTTTTTCATAAATTGCTTTAAG  3160
+
+Query  37887  GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  37940
+              ||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  3161   GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGCGCTCAT  3214
+
+
+
+>Enterobacteria phage HK542, complete genome
+Sequence ID: JQ086373.1 Length: 38964 
+Range 1: 27171 to 27884
+
+Score:1280 bits(693), Expect:0.0, 
+Identities:707/714(99%),  Gaps:0/714(0%), Strand: Plus/Plus
+
+Query  37227  TCAGCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  37286
+              ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27171  TCACCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  27230
+
+Query  37287  CTCATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  37346
+              |||||||||||||||||||||||| |||||||||||||| |||| |||||||||||||||
+Sbjct  27231  CTCATTGCATGGGATCATTGGGTATTGTGGGTTTAGTGGCTGTAGAAACACCTGACCGCT  27290
+
+Query  37347  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATC  37406
+              ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  27291  ATCCCTGATCAGTTTCTTGAAGGTAAATTCATCACCCCCAAGTCTGGCTATGCAGAAATC  27350
+
+Query  37407  ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  37466
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27351  ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  27410
+
+Query  37467  CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  37526
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27411  CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  27470
+
+Query  37527  ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  37586
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27471  ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  27530
+
+Query  37587  CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  37646
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27531  CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  27590
+
+Query  37647  AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  37706
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27591  AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  27650
+
+Query  37707  GCTAAATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATT  37766
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27651  GCTAAATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATT  27710
+
+Query  37767  TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  37826
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27711  TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  27770
+
+Query  37827  TGCGACAGATTCCTGGGATAAGCCAAGTTCAtttttctttttttCATAAATTGCTTTAAG  37886
+              ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27771  TGCGACAGATTCCTGGGGTAAGCCAAGTTCATTTTTCTTTTTTTCATAAATTGCTTTAAG  27830
+
+Query  37887  GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  37940
+              ||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  27831  GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGCGCTCAT  27884
+
+
+
+>Enterobacteria phage HK542 hypothetical protein (HK542c101), hypothetical protein (HK542c102), antitermination protein (N), hypothetical protein (HK542c104), hypothetical protein (HK542c105), prophage repressor (cI), repressor (cro), and transcriptional activator (cII) genes, complete cds
+Sequence ID: EF120458.1 Length: 3972 
+Range 1: 2552 to 3265
+
+Score:1280 bits(693), Expect:0.0, 
+Identities:707/714(99%),  Gaps:0/714(0%), Strand: Plus/Plus
+
+Query  37227  TCAGCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  37286
+              ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2552   TCACCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  2611
+
+Query  37287  CTCATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  37346
+              |||||||||||||||||||||||| |||||||||||||| |||| |||||||||||||||
+Sbjct  2612   CTCATTGCATGGGATCATTGGGTATTGTGGGTTTAGTGGCTGTAGAAACACCTGACCGCT  2671
+
+Query  37347  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATC  37406
+              ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  2672   ATCCCTGATCAGTTTCTTGAAGGTAAATTCATCACCCCCAAGTCTGGCTATGCAGAAATC  2731
+
+Query  37407  ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  37466
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2732   ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  2791
+
+Query  37467  CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  37526
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2792   CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  2851
+
+Query  37527  ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  37586
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2852   ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  2911
+
+Query  37587  CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  37646
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2912   CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  2971
+
+Query  37647  AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  37706
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2972   AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  3031
+
+Query  37707  GCTAAATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATT  37766
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3032   GCTAAATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATT  3091
+
+Query  37767  TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  37826
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3092   TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  3151
+
+Query  37827  TGCGACAGATTCCTGGGATAAGCCAAGTTCAtttttctttttttCATAAATTGCTTTAAG  37886
+              ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3152   TGCGACAGATTCCTGGGGTAAGCCAAGTTCATTTTTCTTTTTTTCATAAATTGCTTTAAG  3211
+
+Query  37887  GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  37940
+              ||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  3212   GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGCGCTCAT  3265
+
+
+
+>Enterobacteria phage HK544, complete genome
+Sequence ID: JQ086374.1 Length: 40155 
+Range 1: 28687 to 29400
+
+Score:1269 bits(687), Expect:0.0, 
+Identities:705/714(99%),  Gaps:0/714(0%), Strand: Plus/Plus
+
+Query  37227  TCAGCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  37286
+              |||||||||||||||||| |||||||| || |||||||||||||||||||||||||||||
+Sbjct  28687  TCAGCCAAACGTCTCTTCTGGCCACTGGCTGGCGATAACTTTCCCCACAACGGAACAACT  28746
+
+Query  37287  CTCATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  37346
+              ||||||||||||||||||||| || || ||||||||||||||||||||||||||||||||
+Sbjct  28747  CTCATTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  28806
+
+Query  37347  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATC  37406
+              |||||||||||||||||||||||||||||||||||| ||||||||||||||||| |||||
+Sbjct  28807  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCTCCAAGTCTGGCTATGCAAAAATC  28866
+
+Query  37407  ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  37466
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28867  ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  28926
+
+Query  37467  CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  37526
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28927  CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  28986
+
+Query  37527  ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  37586
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28987  ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  29046
+
+Query  37587  CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  37646
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  29047  CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  29106
+
+Query  37647  AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  37706
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  29107  AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  29166
+
+Query  37707  GCTAAATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATT  37766
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  29167  GCTAAATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATT  29226
+
+Query  37767  TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  37826
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  29227  TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  29286
+
+Query  37827  TGCGACAGATTCCTGGGATAAGCCAAGTTCAtttttctttttttCATAAATTGCTTTAAG  37886
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  29287  TGCGACAGATTCCTGGGATAAGCCAAGTTCATTTTTCTTTTTTTCATAAATTGCTTTAAG  29346
+
+Query  37887  GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  37940
+              |||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  29347  GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATAGTTTCTTTTTTGTGCTCAT  29400
+
+
+
+>Enterobacteria phage HK544 restriction alleviation (ral) gene, partial cds; and antitermination protein (N), conserved hypothetical protein (HK544c103), conserved hypothetical protein (HK544c104), prophage repressor (cI), repressor (cro), and transcriptional activator (cII) genes, complete cds
+Sequence ID: EF120455.1 Length: 3564 
+Range 1: 2144 to 2857
+
+Score:1269 bits(687), Expect:0.0, 
+Identities:705/714(99%),  Gaps:0/714(0%), Strand: Plus/Plus
+
+Query  37227  TCAGCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  37286
+              |||||||||||||||||| |||||||| || |||||||||||||||||||||||||||||
+Sbjct  2144   TCAGCCAAACGTCTCTTCTGGCCACTGGCTGGCGATAACTTTCCCCACAACGGAACAACT  2203
+
+Query  37287  CTCATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  37346
+              ||||||||||||||||||||| || || ||||||||||||||||||||||||||||||||
+Sbjct  2204   CTCATTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  2263
+
+Query  37347  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATC  37406
+              |||||||||||||||||||||||||||||||||||| ||||||||||||||||| |||||
+Sbjct  2264   ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCTCCAAGTCTGGCTATGCAAAAATC  2323
+
+Query  37407  ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  37466
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2324   ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  2383
+
+Query  37467  CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  37526
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2384   CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  2443
+
+Query  37527  ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  37586
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2444   ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  2503
+
+Query  37587  CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  37646
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2504   CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  2563
+
+Query  37647  AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  37706
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2564   AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  2623
+
+Query  37707  GCTAAATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATT  37766
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2624   GCTAAATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATT  2683
+
+Query  37767  TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  37826
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2684   TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  2743
+
+Query  37827  TGCGACAGATTCCTGGGATAAGCCAAGTTCAtttttctttttttCATAAATTGCTTTAAG  37886
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2744   TGCGACAGATTCCTGGGATAAGCCAAGTTCATTTTTCTTTTTTTCATAAATTGCTTTAAG  2803
+
+Query  37887  GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  37940
+              |||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  2804   GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATAGTTTCTTTTTTGTGCTCAT  2857
+
+
+
+>Enterobacteria phage CL707 IS10 transposase (IS10 transposase) gene, partial cds; and hypothetical protein (CL70702), antitermination protein (N), hypothetical protein (CL70704), prophage repressor (cI), repressor (cro), and transcriptional activator (cII) genes, complete cds
+Sequence ID: EF120459.1 Length: 5055 
+Range 1: 3635 to 4348
+
+Score:1230 bits(666), Expect:0.0, 
+Identities:698/714(98%),  Gaps:0/714(0%), Strand: Plus/Plus
+
+Query  37227  TCAGCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  37286
+              ||| ||||||||||||||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  3635   TCACCCAAACGTCTCTTCAGGCCACTGGCTAGCGATAACTTTCCCCACAACGGAACAACT  3694
+
+Query  37287  CTCATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  37346
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3695   CTCATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  3754
+
+Query  37347  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATC  37406
+              |||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||
+Sbjct  3755   ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCACCAAGTCTGGCTATGCAGAAATC  3814
+
+Query  37407  ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  37466
+               || |||||||||||||| ||||||||||| ||||||||||| |||||||||||||||||
+Sbjct  3815   GCCGGGCTCAACAGCCTGTTCAGGGTCAACAAGAATTAACATCCCGTCAGGAAAGCTTGG  3874
+
+Query  37467  CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  37526
+              |||||| |||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3875   CTTGGATCCTGTTGGCGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  3934
+
+Query  37527  ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  37586
+              |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  3935   ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCAACTTTGGTAAAGGTTCTAAG  3994
+
+Query  37587  CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  37646
+              |||||| ||||||||||| |||||||||||||||||||||||||||||||||||||||||
+Sbjct  3995   CTCAGGCGAGAACATCCCGGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  4054
+
+Query  37647  AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  37706
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4055   AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  4114
+
+Query  37707  GCTAAATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATT  37766
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||
+Sbjct  4115   GCTAAATTCTTCAACGCTAACGTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATT  4174
+
+Query  37767  TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  37826
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4175   TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  4234
+
+Query  37827  TGCGACAGATTCCTGGGATAAGCCAAGTTCAtttttctttttttCATAAATTGCTTTAAG  37886
+              ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  4235   TGCGACAGATTCCTGGGATAAGCCAAGTTCATTTTTCTTTTTTTCATAAATAGCTTTAAG  4294
+
+Query  37887  GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  37940
+              ||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  4295   GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGCGCTCAT  4348
+
+
+
+>Bacteriophage HK97, complete genome
+Sequence ID: AF069529.1 Length: 39732 
+Range 1: 28243 to 28952
+
+Score:1229 bits(665), Expect:0.0, 
+Identities:695/710(98%),  Gaps:0/710(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              ||||||||||||||||||||||| || |||||||||||||||||||||||||||||||||
+Sbjct  28243  CCAAACGTCTCTTCAGGCCACTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  28302
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28303  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  28362
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28363  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  28422
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              |||||||||||||||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  28423  GGCTCAACAGCCTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  28482
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28483  GATCCTGTTGGCGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  28542
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28543  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  28602
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCTAAGT  37650
+              || ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28603  GGCGAGAACATCCCGGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCTAAGT  28662
+
+Query  37651  GACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGGGCTA  37710
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28663  GACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGGGCTA  28722
+
+Query  37711  AATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATTTAAT  37770
+              ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28723  AATTCTTCAACGCTAACGTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATTTAAT  28782
+
+Query  37771  GCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTCTGCG  37830
+              |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  28783  GCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGTCCCATCCCCATCTTGTCTGCG  28842
+
+Query  37831  ACAGATTCCTGGGATAAGCCAAGTTCAtttttctttttttCATAAATTGCTTTAAGGCGA  37890
+              ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  28843  ACAGATTCCTGGGATAAGCCAAGTTCATTTTTCTTTTTTTCATAAATAGCTTTAAGGCGA  28902
+
+Query  37891  CGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  37940
+              ||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  28903  CGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGCGCTCAT  28952
+
+
+
+>Enterobacterial phage mEp234, complete genome
+Sequence ID: JQ182732.1 Length: 39578 
+Range 1: 28372 to 29081
+
+Score:1223 bits(662), Expect:0.0, 
+Identities:694/710(98%),  Gaps:0/710(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              ||||||||||||||||||||||| || |||||||||||||||||||||||||||||||||
+Sbjct  28372  CCAAACGTCTCTTCAGGCCACTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  28431
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  28432  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCACTATCC  28491
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28492  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  28551
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              |||||||||||||||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  28552  GGCTCAACAGCCTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  28611
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28612  GATCCTGTTGGCGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  28671
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28672  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  28731
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCTAAGT  37650
+              || ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28732  GGCGAGAACATCCCGGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCTAAGT  28791
+
+Query  37651  GACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGGGCTA  37710
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28792  GACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGGGCTA  28851
+
+Query  37711  AATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATTTAAT  37770
+              ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28852  AATTCTTCAACGCTAACGTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATTTAAT  28911
+
+Query  37771  GCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTCTGCG  37830
+              |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  28912  GCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGTCCCATCCCCATCTTGTCTGCG  28971
+
+Query  37831  ACAGATTCCTGGGATAAGCCAAGTTCAtttttctttttttCATAAATTGCTTTAAGGCGA  37890
+              ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  28972  ACAGATTCCTGGGATAAGCCAAGTTCATTTTTCTTTTTTTCATAAATAGCTTTAAGGCGA  29031
+
+Query  37891  CGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  37940
+              ||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  29032  CGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGCGCTCAT  29081
+
+
+
+>Enterobacteria phage HK106, complete genome
+Sequence ID: JQ086369.1 Length: 41468 
+Range 1: 30668 to 31377
+
+Score:1223 bits(662), Expect:0.0, 
+Identities:694/710(98%),  Gaps:0/710(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              ||||||||||||||||||||||| || |||||||||||||||||||||||||||||||||
+Sbjct  30668  CCAAACGTCTCTTCAGGCCACTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  30727
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  30728  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCACTATCC  30787
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30788  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  30847
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              |||||||||||||||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  30848  GGCTCAACAGCCTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  30907
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30908  GATCCTGTTGGCGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  30967
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30968  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  31027
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCTAAGT  37650
+              || ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31028  GGCGAGAACATCCCGGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCTAAGT  31087
+
+Query  37651  GACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGGGCTA  37710
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31088  GACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGGGCTA  31147
+
+Query  37711  AATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATTTAAT  37770
+              ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31148  AATTCTTCAACGCTAACGTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATTTAAT  31207
+
+Query  37771  GCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTCTGCG  37830
+              |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  31208  GCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGTCCCATCCCCATCTTGTCTGCG  31267
+
+Query  37831  ACAGATTCCTGGGATAAGCCAAGTTCAtttttctttttttCATAAATTGCTTTAAGGCGA  37890
+              ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  31268  ACAGATTCCTGGGATAAGCCAAGTTCATTTTTCTTTTTTTCATAAATAGCTTTAAGGCGA  31327
+
+Query  37891  CGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  37940
+              ||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  31328  CGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGCGCTCAT  31377
+
+
+
+>Enterobacteria phage HK106 conserved hypothetical protein (HK10601), antitermination protein (N), hypothetical protein (HK10603), putative hif-contiguous protein B (hicB), putative hif-contiguous protein A (hicA), prophage repressor (cI), repressor (cro), and transcriptional activator (cII) genes, complete cds
+Sequence ID: EF120461.1 Length: 4202 
+Range 1: 2750 to 3459
+
+Score:1223 bits(662), Expect:0.0, 
+Identities:694/710(98%),  Gaps:0/710(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              ||||||||||||||||||||||| || |||||||||||||||||||||||||||||||||
+Sbjct  2750   CCAAACGTCTCTTCAGGCCACTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  2809
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  2810   TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCACTATCC  2869
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2870   CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  2929
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              |||||||||||||||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  2930   GGCTCAACAGCCTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  2989
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2990   GATCCTGTTGGCGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  3049
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3050   GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  3109
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCTAAGT  37650
+              || ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3110   GGCGAGAACATCCCGGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCTAAGT  3169
+
+Query  37651  GACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGGGCTA  37710
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3170   GACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGGGCTA  3229
+
+Query  37711  AATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATTTAAT  37770
+              ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3230   AATTCTTCAACGCTAACGTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATTTAAT  3289
+
+Query  37771  GCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTCTGCG  37830
+              |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  3290   GCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGTCCCATCCCCATCTTGTCTGCG  3349
+
+Query  37831  ACAGATTCCTGGGATAAGCCAAGTTCAtttttctttttttCATAAATTGCTTTAAGGCGA  37890
+              ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  3350   ACAGATTCCTGGGATAAGCCAAGTTCATTTTTCTTTTTTTCATAAATAGCTTTAAGGCGA  3409
+
+Query  37891  CGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  37940
+              ||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  3410   CGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGCGCTCAT  3459
+
+
+
+>Enterobacteria phage mEp234 conserved hypothetical protein (mEp23401), antitermination protein (N), hypothetical protein (mEp23403), putative hif-contiguous protein B (hicB), putative hif-contiguous protein A (hicA), prophage repressor (cI), repressor (cro), and transcriptional activator (cII) genes, complete cds
+Sequence ID: EF120460.1 Length: 4202 
+Range 1: 2750 to 3459
+
+Score:1223 bits(662), Expect:0.0, 
+Identities:694/710(98%),  Gaps:0/710(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              ||||||||||||||||||||||| || |||||||||||||||||||||||||||||||||
+Sbjct  2750   CCAAACGTCTCTTCAGGCCACTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  2809
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  2810   TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCACTATCC  2869
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2870   CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  2929
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              |||||||||||||||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  2930   GGCTCAACAGCCTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  2989
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2990   GATCCTGTTGGCGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  3049
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3050   GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  3109
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCTAAGT  37650
+              || ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3110   GGCGAGAACATCCCGGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCTAAGT  3169
+
+Query  37651  GACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGGGCTA  37710
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3170   GACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGGGCTA  3229
+
+Query  37711  AATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATTTAAT  37770
+              ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3230   AATTCTTCAACGCTAACGTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATTTAAT  3289
+
+Query  37771  GCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTCTGCG  37830
+              |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  3290   GCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGTCCCATCCCCATCTTGTCTGCG  3349
+
+Query  37831  ACAGATTCCTGGGATAAGCCAAGTTCAtttttctttttttCATAAATTGCTTTAAGGCGA  37890
+              ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  3350   ACAGATTCCTGGGATAAGCCAAGTTCATTTTTCTTTTTTTCATAAATAGCTTTAAGGCGA  3409
+
+Query  37891  CGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  37940
+              ||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  3410   CGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGCGCTCAT  3459
+
+
+
+>Escherichia virus Lambda genome assembly, chromosome: 1
+Sequence ID: LR597635.1 Length: 47224 
+Range 1: 36166 to 36879
+
+Score:1208 bits(654), Expect:0.0, 
+Identities:694/714(97%),  Gaps:0/714(0%), Strand: Plus/Plus
+
+Query  37227  TCAGCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  37286
+              ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  36166  TCACCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  36225
+
+Query  37287  CTCATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  37346
+              |||||||||||||||||||||||| |||||||||||||| |||| |||||||||||||||
+Sbjct  36226  CTCATTGCATGGGATCATTGGGTATTGTGGGTTTAGTGGCTGTAGAAACACCTGACCGCT  36285
+
+Query  37347  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATC  37406
+              |||||||||||||||||||||||||||||||||||| |||||||||||||| ||||||||
+Sbjct  36286  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCACCAAGTCTGGCTATACAGAAATC  36345
+
+Query  37407  ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  37466
+               ||||||||||||||||||||||||||||| ||||||||||| |||||||||||||| ||
+Sbjct  36346  GCCTGGCTCAACAGCCTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAGCTGGG  36405
+
+Query  37467  CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  37526
+              |||||| ||||||||||||||||||||||||||||||||||||||||||||||||||  |
+Sbjct  36406  CTTGGATCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAGCC  36465
+
+Query  37527  ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  37586
+              |||||||||||||||||||||||||||| |||||||||| ||||||||||||||||||||
+Sbjct  36466  ACTGGCTTTTTTGGTTGTGCTTACCCATTTCTCCGCATCGCCTTTGGTAAAGGTTCTAAG  36525
+
+Query  37587  CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  37646
+              |||||| ||||||||||| |||||||||||||||||||||||||||||||||||||||||
+Sbjct  36526  CTCAGGCGAGAACATCCCGGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCT  36585
+
+Query  37647  AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  37706
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  36586  AAGTGACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGG  36645
+
+Query  37707  GCTAAATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATT  37766
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||
+Sbjct  36646  GCTAAATTCTTCAACGCTAACGTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATT  36705
+
+Query  37767  TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  37826
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  36706  TAATGCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTC  36765
+
+Query  37827  TGCGACAGATTCCTGGGATAAGCCAAGTTCAtttttctttttttCATAAATTGCTTTAAG  37886
+              ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  36766  TGCGACAGATTCCTGGGATAAGCCAAGTTCATTTTTCTTTTTTTCATAAATAGCTTTAAG  36825
+
+Query  37887  GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  37940
+              ||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  36826  GCGACGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGCGCTCAT  36879
+
+
+
+>Enterobacteria phage mEp332 restriction alleviation (ral), superinfection exclusion protein B (sieB), antitermination protein (N), conserved hypothetical protein (mEp33204), prophage repressor (cI), repressor (cro), and transcriptional activator (cII) genes, complete cds
+Sequence ID: EF120456.1 Length: 4251 
+Range 1: 2822 to 3531
+
+Score:1168 bits(632), Expect:0.0, 
+Identities:684/710(96%),  Gaps:0/710(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||
+Sbjct  2822   CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAGCAACTCTCA  2881
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || ||||||||||||||||  ||||||||||||||||||
+Sbjct  2882   TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGGAACACCTGACCGCTATCC  2941
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              |||||||||||||||||||||||||| ||||| |||||||||||||||||||||||||| 
+Sbjct  2942   CTGATCAGTTTCTTGAAGGTAAACTCGTCACCACCAAGTCTGGCTATGCAGAAATCACCA  3001
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              |||||||||| ||||||||||||||| ||||||||||| |||||||||||||||||||||
+Sbjct  3002   GGCTCAACAGTCTGCTCAGGGTCAACAAGAATTAACATCCCGTCAGGAAAGCTTGGCTTG  3061
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||  |||||
+Sbjct  3062   TAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAGCCACTG  3121
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              |||||||| ||||||||||||||| |||||||||||| ||||||||||||||||||||||
+Sbjct  3122   GCTTTTTTAGTTGTGCTTACCCATTTCTCCGCATCACTTTTGGTAAAGGTTCTAAGCTCA  3181
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCTAAGT  37650
+              || ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3182   GGCGAGAACATCCCGGCCTGAACATGAGAAAAAACAGGGTACTCATACTCACTTCTAAGT  3241
+
+Query  37651  GACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGGGCTA  37710
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3242   GACGGCTGCATACTAACCGCTTCATACATCTCGTAGATTTCTCTGGCGATTGAAGGGCTA  3301
+
+Query  37711  AATTCTTCAACGCTAACTTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATTTAAT  37770
+              ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3302   AATTCTTCAACGCTAACGTTGAGAATTTTTGCAAGCAATGCGGCGTTATAAGCATTTAAT  3361
+
+Query  37771  GCATTGATGCCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTCTGCG  37830
+              |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3362   GCATTGATACCATTAAATAAAGCACCAACGCCTGACTGCCCCATCCCCATCTTGTCTGCG  3421
+
+Query  37831  ACAGATTCCTGGGATAAGCCAAGTTCAtttttctttttttCATAAATTGCTTTAAGGCGA  37890
+              ||||||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  3422   ACAGATTCCTGAGATAAGCCAAGTTCATTTTTCTTTTTTTCATAAATAGCTTTAAGGCGA  3481
+
+Query  37891  CGTGCGTCCTCAAGCTGCTCTTGTGTTAATGGTTTCTTTTTTGTGCTCAT  37940
+              ||||||||||||||||||||||||||||| ||||||||||||| ||||||
+Sbjct  3482   CGTGCGTCCTCAAGCTGCTCTTGTGTTAACGGTTTCTTTTTTGCGCTCAT  3531
+
+
+
+>Escherichia virus Lambda_2G7b genome assembly, chromosome: 1
+Sequence ID: LR595866.1 Length: 47142 
+Range 1: 36961 to 37371
+
+Score:643 bits(348), Expect:0.0, 
+Identities:390/411(95%),  Gaps:0/411(0%), Strand: Plus/Plus
+
+Query  37227  TCAGCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  37286
+              ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  36961  TCACCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  37020
+
+Query  37287  CTCATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  37346
+              |||||||||||||||||||||||| |||||||||||||| |||| |||||||||||||||
+Sbjct  37021  CTCATTGCATGGGATCATTGGGTATTGTGGGTTTAGTGGCTGTAGAAACACCTGACCGCT  37080
+
+Query  37347  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATC  37406
+              |||||||||||||||||||||||||||||||||||| |||||||||||||| ||||||||
+Sbjct  37081  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCACCAAGTCTGGCTATACAGAAATC  37140
+
+Query  37407  ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  37466
+               ||||||||||||||||||||||||||||| ||||||||||| |||||||||||||| ||
+Sbjct  37141  GCCTGGCTCAACAGCCTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAGCTGGG  37200
+
+Query  37467  CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  37526
+              |||||| ||||||||||||||||| || ||||||||||||||||||||||||||||| ||
+Sbjct  37201  CTTGGAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTC  37260
+
+Query  37527  ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  37586
+              ||||||||||||||||||||||||| ||||||||||||| ||||||||||||||||| ||
+Sbjct  37261  ACTGGCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCGCCTTTGGTAAAGGTTCTGAG  37320
+
+Query  37587  CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+               || || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  37321  TTCTGGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  37371
+
+
+
+>Escherichia virus Lambda genome assembly, chromosome: 1
+Sequence ID: LR597643.1 Length: 50126 
+Range 1: 39021 to 39431
+
+Score:610 bits(330), Expect:6e-172, 
+Identities:384/411(93%),  Gaps:0/411(0%), Strand: Plus/Plus
+
+Query  37227  TCAGCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  37286
+              ||| |||||||||||||||||||| || || |||||||||||||||||||||||||||||
+Sbjct  39021  TCACCCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACT  39080
+
+Query  37287  CTCATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  37346
+              |||||||||||||||||||||||| |||||||||||||| |||| |||||||||||||||
+Sbjct  39081  CTCATTGCATGGGATCATTGGGTATTGTGGGTTTAGTGGCTGTAGAAACACCTGACCGCT  39140
+
+Query  37347  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATC  37406
+              ||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||
+Sbjct  39141  ATCCCTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATC  39200
+
+Query  37407  ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  37466
+               || ||||||||||| |||||||||||||| ||||||||||| |||||||||||||| ||
+Sbjct  39201  GCCGGGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAGCTGGG  39260
+
+Query  37467  CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  37526
+               ||||| ||||||||||||||||| || ||||||||||||||||||||||||||||| ||
+Sbjct  39261  TTTGGAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTC  39320
+
+Query  37527  ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  37586
+              ||||||||||||||||||||||||| ||||||||||||| ||||||||||||||||| ||
+Sbjct  39321  ACTGGCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCGCCTTTGGTAAAGGTTCTGAG  39380
+
+Query  37587  CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+               || || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  39381  TTCTGGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  39431
+
+
+
+>Escherichia virus Lambda genome assembly, chromosome: 1
+Sequence ID: LR597636.1 Length: 46685 
+Range 1: 36478 to 36888
+
+Score:610 bits(330), Expect:6e-172, 
+Identities:384/411(93%),  Gaps:0/411(0%), Strand: Plus/Plus
+
+Query  37227  TCAGCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  37286
+              ||| |||||||||||||||||||| || || |||||||||||||||||||||||||||||
+Sbjct  36478  TCACCCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACT  36537
+
+Query  37287  CTCATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  37346
+              |||||||||||||||||||||||| |||||||||||||| |||| |||||||||||||||
+Sbjct  36538  CTCATTGCATGGGATCATTGGGTATTGTGGGTTTAGTGGCTGTAGAAACACCTGACCGCT  36597
+
+Query  37347  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATC  37406
+              ||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||
+Sbjct  36598  ATCCCTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATC  36657
+
+Query  37407  ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  37466
+               || ||||||||||| |||||||||||||| ||||||||||| |||||||||||||| ||
+Sbjct  36658  GCCGGGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAGCTGGG  36717
+
+Query  37467  CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  37526
+               ||||| ||||||||||||||||| || ||||||||||||||||||||||||||||| ||
+Sbjct  36718  TTTGGAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTC  36777
+
+Query  37527  ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  37586
+              ||||||||||||||||||||||||| ||||||||||||| ||||||||||||||||| ||
+Sbjct  36778  ACTGGCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCGCCTTTGGTAAAGGTTCTGAG  36837
+
+Query  37587  CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+               || || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  36838  TTCTGGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  36888
+
+
+
+>Escherichia virus Lambda_2B8 genome assembly, chromosome: 1
+Sequence ID: LR595859.1 Length: 48763 
+Range 1: 36460 to 36870
+
+Score:610 bits(330), Expect:6e-172, 
+Identities:384/411(93%),  Gaps:0/411(0%), Strand: Plus/Plus
+
+Query  37227  TCAGCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACT  37286
+              ||| |||||||||||||| |||||||| || |||||||||||||||||||||||||||||
+Sbjct  36460  TCACCCAAACGTCTCTTCTGGCCACTGGCTGGCGATAACTTTCCCCACAACGGAACAACT  36519
+
+Query  37287  CTCATTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCT  37346
+              ||||||||||||||||||||| || || ||||||||||| |||| |||||||||||||||
+Sbjct  36520  CTCATTGCATGGGATCATTGGATATTGCGGGTTTAGTGGCTGTAGAAACACCTGACCGCT  36579
+
+Query  37347  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATC  37406
+              |||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||
+Sbjct  36580  ATCCCTGATCAGTTTCTTGAAGGTAAACTCATCACCACCAAGTCTGGCTATGCAGAAATC  36639
+
+Query  37407  ACCTGGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGG  37466
+              |||||||||||||||||||||||||||||| ||||||||||| ||||||||||| || ||
+Sbjct  36640  ACCTGGCTCAACAGCCTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGG  36699
+
+Query  37467  CTTGGAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATC  37526
+               ||||| |||||||| |||||||| || ||||||||||||||||||||||||||||| ||
+Sbjct  36700  TTTGGAACCTGTTGGGGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTC  36759
+
+Query  37527  ACTGGCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAG  37586
+              ||||||||||||||||||||||||| ||||||||||||| ||||||||||||||||| ||
+Sbjct  36760  ACTGGCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCGCCTTTGGTAAAGGTTCTGAG  36819
+
+Query  37587  CTCAGGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+               || || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  36820  TTCTGGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  36870
+
+
+
+>Stx2-converting phage Stx2a F578 genes for Shiga toxin 2 production region, complete sequence
+Sequence ID: LC487997.1 Length: 24274 
+Range 1: 10895 to 11301
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  10895  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  10954
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  10955  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  11014
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  11015  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  11074
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  11075  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  11134
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  11135  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  11194
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  11195  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  11254
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  11255  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  11301
+
+
+
+>Stx2-converting phage Stx2a 981509 genes for Shiga toxin 2 production region, complete sequence
+Sequence ID: LC487996.1 Length: 25488 
+Range 1: 13564 to 13970
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  13564  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  13623
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  13624  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  13683
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  13684  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  13743
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  13744  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  13803
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  13804  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  13863
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  13864  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  13923
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  13924  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  13970
+
+
+
+>Stx2-converting phage Stx2a_WGPS8 proviral DNA, complete genome
+Sequence ID: AP012540.1 Length: 55023 
+Range 1: 10385 to 10791
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  10385  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  10444
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  10445  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  10504
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  10505  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  10564
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  10565  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  10624
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  10625  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  10684
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  10685  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  10744
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  10745  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  10791
+
+
+
+>Stx2-converting phage Stx2a_WGPS6 proviral DNA, complete genome
+Sequence ID: AP012539.1 Length: 57849 
+Range 1: 12817 to 13223
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  12817  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  12876
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  12877  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  12936
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  12937  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  12996
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  12997  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  13056
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  13057  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  13116
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  13117  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  13176
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  13177  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  13223
+
+
+
+>Stx2-converting phage Stx2a_WGPS4 proviral DNA, complete genome
+Sequence ID: AP012538.1 Length: 58538 
+Range 1: 10369 to 10775
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  10369  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  10428
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  10429  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  10488
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  10489  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  10548
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  10549  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  10608
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  10609  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  10668
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  10669  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  10728
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  10729  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  10775
+
+
+
+>Stx2-converting phage Stx2a_F349 proviral DNA, complete genome
+Sequence ID: AP012530.1 Length: 59872 
+Range 1: 10390 to 10796
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  10390  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  10449
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  10450  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  10509
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  10510  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  10569
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  10570  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  10629
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  10630  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  10689
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  10690  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  10749
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  10750  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  10796
+
+
+
+>Escherichia phage PA12, complete genome
+Sequence ID: KP682376.1 Length: 61388 
+>Escherichia phage PA51, complete genome
+Sequence ID: KP682391.1 Length: 61388  
+Range 1: 10905 to 11311
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  10905  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  10964
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  10965  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  11024
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  11025  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  11084
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  11085  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  11144
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  11145  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  11204
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  11205  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  11264
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  11265  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  11311
+
+
+
+>Escherichia phage PA52, complete genome
+Sequence ID: KP682392.1 Length: 65334 
+Range 1: 10905 to 11311
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  10905  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  10964
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  10965  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  11024
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  11025  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  11084
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  11085  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  11144
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  11145  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  11204
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  11205  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  11264
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  11265  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  11311
+
+
+
+>Escherichia phage PA50, complete genome
+Sequence ID: KP682390.1 Length: 62708 
+Range 1: 10905 to 11311
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  10905  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  10964
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  10965  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  11024
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  11025  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  11084
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  11085  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  11144
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  11145  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  11204
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  11205  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  11264
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  11265  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  11311
+
+
+
+>Escherichia phage PA45, complete genome
+Sequence ID: KP682389.1 Length: 65334 
+Range 1: 12218 to 12624
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  12218  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  12277
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  12278  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  12337
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  12338  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  12397
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  12398  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  12457
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  12458  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  12517
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  12518  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  12577
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  12578  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  12624
+
+
+
+>Escherichia phage PA42, complete genome
+Sequence ID: KP682387.1 Length: 62708 
+Range 1: 10905 to 11311
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  10905  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  10964
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  10965  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  11024
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  11025  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  11084
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  11085  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  11144
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  11145  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  11204
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  11205  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  11264
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  11265  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  11311
+
+
+
+>Escherichia phage PA36, complete genome
+Sequence ID: KP682386.1 Length: 64021 
+Range 1: 10905 to 11311
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  10905  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  10964
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  10965  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  11024
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  11025  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  11084
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  11085  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  11144
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  11145  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  11204
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  11205  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  11264
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  11265  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  11311
+
+
+
+>Escherichia phage PA32, complete genome
+Sequence ID: KP682384.1 Length: 62708 
+Range 1: 10905 to 11311
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  10905  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  10964
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  10965  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  11024
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  11025  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  11084
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  11085  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  11144
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  11145  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  11204
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  11205  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  11264
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  11265  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  11311
+
+
+
+>Escherichia phage PA29, complete genome
+Sequence ID: KP682382.1 Length: 62708 
+Range 1: 10905 to 11311
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  10905  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  10964
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  10965  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  11024
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  11025  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  11084
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  11085  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  11144
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  11145  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  11204
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  11205  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  11264
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  11265  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  11311
+
+
+
+>Escherichia phage PA27, complete genome
+Sequence ID: KP682380.1 Length: 64021 
+Range 1: 10905 to 11311
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  10905  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  10964
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  10965  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  11024
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  11025  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  11084
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  11085  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  11144
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  11145  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  11204
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  11205  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  11264
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  11265  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  11311
+
+
+
+>Escherichia phage PA21, complete genome
+Sequence ID: KP682379.1 Length: 62708 
+Range 1: 10905 to 11311
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  10905  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  10964
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  10965  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  11024
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  11025  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  11084
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  11085  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  11144
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  11145  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  11204
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  11205  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  11264
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  11265  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  11311
+
+
+
+>Escherichia phage PA16, complete genome
+Sequence ID: KP682377.1 Length: 62708 
+Range 1: 10905 to 11311
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  10905  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  10964
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  10965  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  11024
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  11025  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  11084
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  11085  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  11144
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  11145  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  11204
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  11205  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  11264
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  11265  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  11311
+
+
+
+>Escherichia phage PA11, complete genome
+Sequence ID: KP682375.1 Length: 62708 
+Range 1: 10905 to 11311
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  10905  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  10964
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  10965  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  11024
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  11025  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  11084
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  11085  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  11144
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  11145  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  11204
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  11205  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  11264
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  11265  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  11311
+
+
+
+>Escherichia phage PA5, complete genome
+Sequence ID: KP682373.1 Length: 62708 
+Range 1: 10905 to 11311
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  10905  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  10964
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  10965  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  11024
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  11025  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  11084
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  11085  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  11144
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  11145  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  11204
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  11205  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  11264
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  11265  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  11311
+
+
+
+>Escherichia phage PA4, complete genome
+Sequence ID: KP682372.1 Length: 62708 
+>Escherichia phage PA18, complete genome
+Sequence ID: KP682378.1 Length: 62708 >Escherichia phage PA30, complete genome
+Sequence ID: KP682383.1 Length: 62708 >Escherichia phage PA33, complete genome
+Sequence ID: KP682385.1 Length: 62708 >Escherichia phage PA44, complete genome
+Sequence ID: KP682388.1 Length: 62708  
+Range 1: 10905 to 11311
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  10905  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  10964
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  10965  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  11024
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  11025  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  11084
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  11085  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  11144
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  11145  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  11204
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  11205  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  11264
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  11265  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  11311
+
+
+
+>Escherichia Stx1-converting recombinant phage HUN/2013, complete genome
+Sequence ID: KJ909655.1 Length: 61137 
+Range 1: 34130 to 34536
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  34130  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  34189
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  34190  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  34249
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  34250  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  34309
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  34310  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  34369
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  34370  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  34429
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  34430  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  34489
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  34490  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  34536
+
+
+
+>Stx2-converting phage 1717, complete genome
+Sequence ID: FJ188381.1 Length: 62147 
+Range 1: 11046 to 11452
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  11046  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  11105
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  11106  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  11165
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  11166  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  11225
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  11226  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  11285
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  11286  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  11345
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  11346  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  11405
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  11406  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  11452
+
+
+
+>Enterobacteria phage YYZ-2008, complete genome
+Sequence ID: FJ184280.1 Length: 54896 
+Range 1: 10569 to 10975
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  10569  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  10628
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  10629  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  10688
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  10689  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  10748
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  10749  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  10808
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  10809  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  10868
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  10869  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  10928
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  10929  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  10975
+
+
+
+>Enterobacteria phage 2851, complete genome
+Sequence ID: FM180578.1 Length: 57248 
+Range 1: 10376 to 10782
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  10376  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  10435
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  10436  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  10495
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  10496  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  10555
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  10556  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  10615
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  10616  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  10675
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  10676  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  10735
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  10736  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  10782
+
+
+
+>Stx2 converting phage II DNA, complete genome
+Sequence ID: AP005154.1 Length: 62706 
+Range 1: 42793 to 43199
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  42793  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  42852
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  42853  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  42912
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  42913  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  42972
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  42973  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  43032
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  43033  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  43092
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  43093  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  43152
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  43153  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  43199
+
+
+
+>Stx1 converting phage DNA, complete genome
+Sequence ID: AP005153.1 Length: 59866 
+Range 1: 42793 to 43199
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  42793  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  42852
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  42853  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  42912
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  42913  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  42972
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  42973  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  43032
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  43033  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  43092
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  43093  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  43152
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  43153  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  43199
+
+
+
+>Bacteriophage Nil2 proviral n gene, ORF22, ci gene, cro gene, cii gene, ORF53, o gene, p gene, ninA gene, ORF29, ORF30, ORF31, ninB gene, ORF175, ninE gene, ORF23, ORF57, antA gene, antB gene, roi gene, ninG gene, ninI gene, q gene, stx2A gene, stx2B gene, ileZ gene, argN gene and argO gene
+Sequence ID: AJ413274.1 Length: 14279 
+Range 1: 2029 to 2435
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  2029   CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  2088
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  2089   TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  2148
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  2149   CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  2208
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  2209   GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  2268
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  2269   GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  2328
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  2329   GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  2388
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  2389   GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  2435
+
+
+
+>Enterobacteria phage VT2-Sakai cI gene for repressor protein, complete cds
+Sequence ID: AB037107.1 Length: 576 
+Range 1: 166 to 572
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Minus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  572    CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  513
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  512    TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  453
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  452    CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  393
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  392    GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  333
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  332    GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  273
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  272    GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  213
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  212    GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  166
+
+
+
+>Enterobacteria phage VT2-Sakai proviral DNA, complete genome
+Sequence ID: AP000363.1 Length: 60942 
+Range 1: 10904 to 11310
+
+Score:603 bits(326), Expect:1e-169, 
+Identities:380/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  10904  CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  10963
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  10964  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  11023
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  11024  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  11083
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  11084  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  11143
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  11144  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  11203
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  11204  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  11263
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  11264  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  11310
+
+
+
+>Escherichia phage phi-8 mobile element protein (gam), Kil protein, regulatory protein, single strand DNA-binding protein, hypothetical protein, putative anti-termination protein N, hypothetical proteins, putative cI repressor protein (cI), and putative Cro repressor protein (cro) genes, complete cds
+Sequence ID: KF241843.1 Length: 5035 
+Range 1: 3688 to 4094
+
+Score:597 bits(323), Expect:5e-168, 
+Identities:379/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || || |||||||||||||||||||||||||||||||||
+Sbjct  3688   CCAAACGTCTCTTCAGGCCATTGGCTGGCGATAACTTTCCCCACAACGGAACAACTCTCA  3747
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| ||||||||| |||||||||
+Sbjct  3748   TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGGCCGCTATCC  3807
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  3808   CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  3867
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  3868   GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  3927
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  3928   GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  3987
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  3988   GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  4047
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  4048   GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  4094
+
+
+
+>Enterobacteria phage VT2-Sakai genomic DNA, prophage inserted region in Escherichia coli O157:H7
+Sequence ID: AP000422.1 Length: 65510 
+Range 1: 11459 to 11865
+
+Score:597 bits(323), Expect:5e-168, 
+Identities:379/407(93%),  Gaps:0/407(0%), Strand: Plus/Plus
+
+Query  37231  CCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTTCCCCACAACGGAACAACTCTCA  37290
+              |||||||||||||||||||| || |  |||||||||||||||||||||||||||||||||
+Sbjct  11459  CCAAACGTCTCTTCAGGCCATTGGCCGGCGATAACTTTCCCCACAACGGAACAACTCTCA  11518
+
+Query  37291  TTGCATGGGATCATTGGGTACTGTGGGTTTAGTGGTTGTAAAAACACCTGACCGCTATCC  37350
+              ||||||||||||||||| || || |||||||||||||||| |||||||||||||||||||
+Sbjct  11519  TTGCATGGGATCATTGGATATTGCGGGTTTAGTGGTTGTAGAAACACCTGACCGCTATCC  11578
+
+Query  37351  CTGATCAGTTTCTTGAAGGTAAACTCATCACCCCCAAGTCTGGCTATGCAGAAATCACCT  37410
+              ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| || 
+Sbjct  11579  CTGATCAGTTTCTTGAAGGTAAATTCATCACCACCAAGTCTGGCTATGCAGAAATCGCCG  11638
+
+Query  37411  GGCTCAACAGCCTGCTCAGGGTCAACGAGAATTAACATTCCGTCAGGAAAGCTTGGCTTG  37470
+              ||||||||||| |||||||||||||| ||||||||||| ||||||||||| || || |||
+Sbjct  11639  GGCTCAACAGCTTGCTCAGGGTCAACCAGAATTAACATCCCGTCAGGAAAACTAGGTTTG  11698
+
+Query  37471  GAGCCTGTTGGTGCGGTCATGGAATTACCTTCAACCTCAAGCCAGAATGCAGAATCACTG  37530
+              || ||||||||||||||||| || ||||||||||||||||||||||||||||| ||||||
+Sbjct  11699  GAACCTGTTGGTGCGGTCATTGAGTTACCTTCAACCTCAAGCCAGAATGCAGAGTCACTG  11758
+
+Query  37531  GCTTTTTTGGTTGTGCTTACCCATCTCTCCGCATCACCTTTGGTAAAGGTTCTAAGCTCA  37590
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||| || || 
+Sbjct  11759  GCTTTTTTGGTTGTGCTTACCAATCTCTCCGCATCACCTTTGGTAAAGGTTCTGAGTTCT  11818
+
+Query  37591  GGTGAGAACATCCCTGCCTGAACATGAGAAAAAACAGGGTACTCATA  37637
+              || ||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  11819  GGAGAGAACATCCCAGCCTGAACATGAGAAAAAACAGGGTACTCATA  11865
+
+
+
+>rex gene of phage lambda
+Sequence ID: V00639.1 Length: 1561 
+Range 1: 1520 to 1561
+
+Score:78.7 bits(42), Expect:8e-12, 
+Identities:42/42(100%),  Gaps:0/42(0%), Strand: Plus/Plus
+
+Query  37227  TCAGCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTT  37268
+              ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1520   TCAGCCAAACGTCTCTTCAGGCCACTGACTAGCGATAACTTT  1561
+
+
+
+
+
+
+
+		
+
+
