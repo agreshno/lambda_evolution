@@ -1,4 +1,4 @@
-# lambda_evolution
+# lambda evolution
 
 ## Finding a homologs of CI from lambda phage
 
@@ -8,7 +8,7 @@
 
 **Gene ID**: 20469025
 
-Fasta file
+[Fasta file](https://github.com/agreshno/lambda_evolution/blob/master/NC_025021.1%5B3381..4308%5D(-).fa)
 
 **BLAST**
 
