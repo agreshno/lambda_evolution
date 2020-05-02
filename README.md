@@ -4,6 +4,8 @@
 
 **NCBI**
 
+cI gene of lambda phage
+
 Accession number: NC_001416.1
 
 BLAST [result](https://github.com/agreshno/lambda_evolution/blob/master/AUY3PB1W016-Alignment.txt)
@@ -11,6 +13,8 @@ BLAST [result](https://github.com/agreshno/lambda_evolution/blob/master/AUY3PB1W
 ![Phylogenetic tree](https://github.com/agreshno/lambda_evolution/blob/master/ph_tree.png)
 
 [Full](https://github.com/agreshno/lambda_evolution/blob/master/undefined.pdf)
+
+Table of homologs
 
 | Description                                                                                                                                                                                                                                                                                                                | Pers Ident | Accession  |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|
