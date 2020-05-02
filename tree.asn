@@ -1,0 +1,4395 @@
+BioTreeContainer ::= {
+  fdict {
+    {
+      id 0,
+      name "label"
+    },
+    {
+      id 1,
+      name "dist"
+    },
+    {
+      id 2,
+      name "seq-id"
+    },
+    {
+      id 3,
+      name "organism"
+    },
+    {
+      id 4,
+      name "seq-title"
+    },
+    {
+      id 5,
+      name "accession-nbr"
+    },
+    {
+      id 6,
+      name "blast-name"
+    },
+    {
+      id 7,
+      name "align-index"
+    },
+    {
+      id 8,
+      name "$NODE_COLOR"
+    },
+    {
+      id 9,
+      name "$LABEL_COLOR"
+    },
+    {
+      id 10,
+      name "$LABEL_BG_COLOR"
+    },
+    {
+      id 11,
+      name "$LABEL_TAG_COLOR"
+    },
+    {
+      id 12,
+      name "$NODE_COLLAPSED"
+    },
+    {
+      id 13,
+      name "node-info"
+    },
+    {
+      id 14,
+      name "leaf-count"
+    },
+    {
+      id 15,
+      name "common-name"
+    },
+    {
+      id 16,
+      name "$NODE_SIZE"
+    },
+    {
+      id 17,
+      name "$EDGE_COLOR"
+    }
+  },
+  nodes {
+    {
+      id 0,
+      features {
+        {
+          featureid 0,
+          value "viruses and unknown"
+        },
+        {
+          featureid 14,
+          value "56"
+        },
+        {
+          featureid 10,
+          value "255 255 0"
+        }
+      }
+    },
+    {
+      id 1,
+      parent 0,
+      features {
+        {
+          featureid 1,
+          value "0.0131395"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "35"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 2,
+      parent 1,
+      features {
+        {
+          featureid 1,
+          value "0.0100698"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "34"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 3,
+      parent 2,
+      features {
+        {
+          featureid 0,
+          value "Escherichia virus Lambda_2B8 genome assembly, chromosome: 1"
+        },
+        {
+          featureid 1,
+          value "0.0119732"
+        },
+        {
+          featureid 2,
+          value "gi|1779412759"
+        },
+        {
+          featureid 3,
+          value "Escherichia virus Lambda_2B8"
+        },
+        {
+          featureid 4,
+          value "Escherichia virus Lambda_2B8 genome assembly, chromosome: 1"
+        },
+        {
+          featureid 5,
+          value "LR595859.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia virus Lambda_2B8"
+        },
+        {
+          featureid 7,
+          value "23"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 4,
+      parent 2,
+      features {
+        {
+          featureid 1,
+          value "0.00543173"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "33"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 5,
+      parent 4,
+      features {
+        {
+          featureid 1,
+          value "0.00592924"
+        },
+        {
+          featureid 12,
+          value "1"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "2"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 6,
+      parent 5,
+      features {
+        {
+          featureid 0,
+          value "Escherichia virus Lambda genome assembly, chromosome: 1"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|1779414215"
+        },
+        {
+          featureid 3,
+          value "Escherichia virus Lambda"
+        },
+        {
+          featureid 4,
+          value "Escherichia virus Lambda genome assembly, chromosome: 1"
+        },
+        {
+          featureid 5,
+          value "LR597643.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia virus Lambda"
+        },
+        {
+          featureid 7,
+          value "21"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 7,
+      parent 5,
+      features {
+        {
+          featureid 0,
+          value "Escherichia virus Lambda genome assembly, chromosome: 1"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|1779413832"
+        },
+        {
+          featureid 3,
+          value "Escherichia virus Lambda"
+        },
+        {
+          featureid 4,
+          value "Escherichia virus Lambda genome assembly, chromosome: 1"
+        },
+        {
+          featureid 5,
+          value "LR597636.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia virus Lambda"
+        },
+        {
+          featureid 7,
+          value "22"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 8,
+      parent 4,
+      features {
+        {
+          featureid 1,
+          value "0.00895958"
+        },
+        {
+          featureid 12,
+          value "1"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "31"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 9,
+      parent 8,
+      features {
+        {
+          featureid 1,
+          value "2.60734e-12"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "30"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 10,
+      parent 9,
+      features {
+        {
+          featureid 1,
+          value "2.60735e-12"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "29"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 11,
+      parent 10,
+      features {
+        {
+          featureid 1,
+          value "2.60735e-12"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "28"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 12,
+      parent 11,
+      features {
+        {
+          featureid 1,
+          value "2.60735e-12"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "27"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 13,
+      parent 12,
+      features {
+        {
+          featureid 1,
+          value "2.60735e-12"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "26"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 14,
+      parent 13,
+      features {
+        {
+          featureid 1,
+          value "2.60735e-12"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "25"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 15,
+      parent 14,
+      features {
+        {
+          featureid 1,
+          value "2.60735e-12"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "24"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 16,
+      parent 15,
+      features {
+        {
+          featureid 1,
+          value "2.60735e-12"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "23"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 17,
+      parent 16,
+      features {
+        {
+          featureid 1,
+          value "2.60735e-12"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "22"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 18,
+      parent 17,
+      features {
+        {
+          featureid 1,
+          value "2.60735e-12"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "21"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 19,
+      parent 18,
+      features {
+        {
+          featureid 1,
+          value "2.60735e-12"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "20"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 20,
+      parent 19,
+      features {
+        {
+          featureid 1,
+          value "2.60735e-12"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "19"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 21,
+      parent 20,
+      features {
+        {
+          featureid 1,
+          value "2.60735e-12"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "18"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 22,
+      parent 21,
+      features {
+        {
+          featureid 1,
+          value "2.60735e-12"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "17"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 23,
+      parent 22,
+      features {
+        {
+          featureid 1,
+          value "2.60735e-12"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "16"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 24,
+      parent 23,
+      features {
+        {
+          featureid 1,
+          value "2.60735e-12"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "15"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 25,
+      parent 24,
+      features {
+        {
+          featureid 1,
+          value "2.60735e-12"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "14"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 26,
+      parent 25,
+      features {
+        {
+          featureid 1,
+          value "2.60735e-12"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "13"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 27,
+      parent 26,
+      features {
+        {
+          featureid 1,
+          value "2.60735e-12"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "12"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 28,
+      parent 27,
+      features {
+        {
+          featureid 1,
+          value "2.60735e-12"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "11"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 29,
+      parent 28,
+      features {
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "10"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 30,
+      parent 29,
+      features {
+        {
+          featureid 1,
+          value "1.58246e-08"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "5"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 31,
+      parent 30,
+      features {
+        {
+          featureid 0,
+          value "Escherichia phage PA52, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|824466356"
+        },
+        {
+          featureid 3,
+          value "Escherichia phage PA52"
+        },
+        {
+          featureid 4,
+          value "Escherichia phage PA52, complete genome"
+        },
+        {
+          featureid 5,
+          value "KP682392.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia phage PA52"
+        },
+        {
+          featureid 7,
+          value "31"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 32,
+      parent 30,
+      features {
+        {
+          featureid 1,
+          value "1.58259e-08"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "4"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 33,
+      parent 32,
+      features {
+        {
+          featureid 0,
+          value "Stx2-converting phage Stx2a_F349 proviral DNA, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|946713237"
+        },
+        {
+          featureid 3,
+          value "Stx2-converting phage Stx2a_F349"
+        },
+        {
+          featureid 4,
+          value "Stx2-converting phage Stx2a_F349 proviral DNA, complete genome"
+        },
+        {
+          featureid 5,
+          value "AP012530.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Stx2-converting phage Stx2a_F349"
+        },
+        {
+          featureid 7,
+          value "29"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 34,
+      parent 32,
+      features {
+        {
+          featureid 1,
+          value "1.58259e-08"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "3"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 35,
+      parent 34,
+      features {
+        {
+          featureid 0,
+          value "Stx2-converting phage Stx2a_WGPS6 proviral DNA, complete
+ genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|946713951"
+        },
+        {
+          featureid 3,
+          value "Stx2-converting phage Stx2a_WGPS6"
+        },
+        {
+          featureid 4,
+          value "Stx2-converting phage Stx2a_WGPS6 proviral DNA, complete
+ genome"
+        },
+        {
+          featureid 5,
+          value "AP012539.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Stx2-converting phage Stx2a_WGPS6"
+        },
+        {
+          featureid 7,
+          value "27"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 36,
+      parent 34,
+      features {
+        {
+          featureid 1,
+          value "1.58259e-08"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "2"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 37,
+      parent 36,
+      features {
+        {
+          featureid 0,
+          value "Escherichia phage phi-8 mobile element protein (gam), Kil
+ protein, regulatory protein, single strand DNA-binding protein, hypothetical
+ protein, putative anti-termination protein N, hypothetical proteins, putative
+ cI repressor protein (cI), and putative Cro repressor protein (cro) genes,
+ complete cds"
+        },
+        {
+          featureid 1,
+          value "0.00246105"
+        },
+        {
+          featureid 2,
+          value "gi|656633938"
+        },
+        {
+          featureid 3,
+          value "Escherichia phage phi-8"
+        },
+        {
+          featureid 4,
+          value "Escherichia phage phi-8 mobile element protein (gam), Kil
+ protein, regulatory protein, single strand DNA-binding protein, hypothetical
+ protein, putative anti-termination protein N, hypothetical proteins, putative
+ cI repressor protein (cI), and putative Cro repressor protein (cro) genes,
+ complete cds"
+        },
+        {
+          featureid 5,
+          value "KF241843.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia phage phi-8"
+        },
+        {
+          featureid 7,
+          value "53"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 38,
+      parent 36,
+      features {
+        {
+          featureid 0,
+          value "Stx2-converting phage Stx2a 981509 genes for Shiga toxin 2
+ production region, complete sequence"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|1690508098"
+        },
+        {
+          featureid 3,
+          value "Stx2-converting phage Stx2a 981509"
+        },
+        {
+          featureid 4,
+          value "Stx2-converting phage Stx2a 981509 genes for Shiga toxin 2
+ production region, complete sequence"
+        },
+        {
+          featureid 5,
+          value "LC487996.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Stx2-converting phage Stx2a 981509"
+        },
+        {
+          featureid 7,
+          value "25"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 39,
+      parent 29,
+      features {
+        {
+          featureid 1,
+          value "1.58246e-08"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "5"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 40,
+      parent 39,
+      features {
+        {
+          featureid 0,
+          value "Escherichia phage PA12, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|827199819"
+        },
+        {
+          featureid 3,
+          value "Escherichia phage PA12"
+        },
+        {
+          featureid 4,
+          value "Escherichia phage PA12, complete genome"
+        },
+        {
+          featureid 5,
+          value "KP682376.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia phage PA12"
+        },
+        {
+          featureid 7,
+          value "30"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 41,
+      parent 39,
+      features {
+        {
+          featureid 1,
+          value "1.58259e-08"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "4"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 42,
+      parent 41,
+      features {
+        {
+          featureid 0,
+          value "Stx2-converting phage Stx2a_WGPS4 proviral DNA, complete
+ genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|946713867"
+        },
+        {
+          featureid 3,
+          value "Stx2-converting phage Stx2a_WGPS4"
+        },
+        {
+          featureid 4,
+          value "Stx2-converting phage Stx2a_WGPS4 proviral DNA, complete
+ genome"
+        },
+        {
+          featureid 5,
+          value "AP012538.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Stx2-converting phage Stx2a_WGPS4"
+        },
+        {
+          featureid 7,
+          value "28"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 43,
+      parent 41,
+      features {
+        {
+          featureid 1,
+          value "1.58259e-08"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "3"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 44,
+      parent 43,
+      features {
+        {
+          featureid 0,
+          value "Stx2-converting phage Stx2a_WGPS8 proviral DNA, complete
+ genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|946714030"
+        },
+        {
+          featureid 3,
+          value "Stx2-converting phage Stx2a_WGPS8"
+        },
+        {
+          featureid 4,
+          value "Stx2-converting phage Stx2a_WGPS8 proviral DNA, complete
+ genome"
+        },
+        {
+          featureid 5,
+          value "AP012540.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Stx2-converting phage Stx2a_WGPS8"
+        },
+        {
+          featureid 7,
+          value "26"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 45,
+      parent 43,
+      features {
+        {
+          featureid 1,
+          value "1.58259e-08"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "2"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 46,
+      parent 45,
+      features {
+        {
+          featureid 0,
+          value "Stx2-converting phage Stx2a F578 genes for Shiga toxin 2
+ production region, complete sequence"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|1690508134"
+        },
+        {
+          featureid 3,
+          value "Stx2-converting phage Stx2a F578"
+        },
+        {
+          featureid 4,
+          value "Stx2-converting phage Stx2a F578 genes for Shiga toxin 2
+ production region, complete sequence"
+        },
+        {
+          featureid 5,
+          value "LC487997.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Stx2-converting phage Stx2a F578"
+        },
+        {
+          featureid 7,
+          value "24"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 47,
+      parent 45,
+      features {
+        {
+          featureid 0,
+          value "Enterobacteria phage VT2-Sakai genomic DNA, prophage inserted
+ region in Escherichia coli O157:H7"
+        },
+        {
+          featureid 1,
+          value "0.00246105"
+        },
+        {
+          featureid 2,
+          value "gi|7649819"
+        },
+        {
+          featureid 3,
+          value "Enterobacteria phage VT2-Sakai"
+        },
+        {
+          featureid 4,
+          value "Enterobacteria phage VT2-Sakai genomic DNA, prophage inserted
+ region in Escherichia coli O157:H7"
+        },
+        {
+          featureid 5,
+          value "AP000422.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Enterobacteria phage VT2-Sakai"
+        },
+        {
+          featureid 7,
+          value "54"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 48,
+      parent 28,
+      features {
+        {
+          featureid 0,
+          value "Escherichia phage PA50, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|824466207"
+        },
+        {
+          featureid 3,
+          value "Escherichia phage PA50"
+        },
+        {
+          featureid 4,
+          value "Escherichia phage PA50, complete genome"
+        },
+        {
+          featureid 5,
+          value "KP682390.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia phage PA50"
+        },
+        {
+          featureid 7,
+          value "32"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 49,
+      parent 27,
+      features {
+        {
+          featureid 0,
+          value "Escherichia phage PA45, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|824466054"
+        },
+        {
+          featureid 3,
+          value "Escherichia phage PA45"
+        },
+        {
+          featureid 4,
+          value "Escherichia phage PA45, complete genome"
+        },
+        {
+          featureid 5,
+          value "KP682389.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia phage PA45"
+        },
+        {
+          featureid 7,
+          value "33"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 50,
+      parent 26,
+      features {
+        {
+          featureid 0,
+          value "Escherichia phage PA42, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|824465750"
+        },
+        {
+          featureid 3,
+          value "Escherichia phage PA42"
+        },
+        {
+          featureid 4,
+          value "Escherichia phage PA42, complete genome"
+        },
+        {
+          featureid 5,
+          value "KP682387.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia phage PA42"
+        },
+        {
+          featureid 7,
+          value "34"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 51,
+      parent 25,
+      features {
+        {
+          featureid 0,
+          value "Escherichia phage PA36, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|824465607"
+        },
+        {
+          featureid 3,
+          value "Escherichia phage PA36"
+        },
+        {
+          featureid 4,
+          value "Escherichia phage PA36, complete genome"
+        },
+        {
+          featureid 5,
+          value "KP682386.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia phage PA36"
+        },
+        {
+          featureid 7,
+          value "35"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 52,
+      parent 24,
+      features {
+        {
+          featureid 0,
+          value "Escherichia phage PA32, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|824465301"
+        },
+        {
+          featureid 3,
+          value "Escherichia phage PA32"
+        },
+        {
+          featureid 4,
+          value "Escherichia phage PA32, complete genome"
+        },
+        {
+          featureid 5,
+          value "KP682384.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia phage PA32"
+        },
+        {
+          featureid 7,
+          value "36"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 53,
+      parent 23,
+      features {
+        {
+          featureid 0,
+          value "Escherichia phage PA29, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|824464923"
+        },
+        {
+          featureid 3,
+          value "Escherichia phage PA29"
+        },
+        {
+          featureid 4,
+          value "Escherichia phage PA29, complete genome"
+        },
+        {
+          featureid 5,
+          value "KP682382.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia phage PA29"
+        },
+        {
+          featureid 7,
+          value "37"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 54,
+      parent 22,
+      features {
+        {
+          featureid 0,
+          value "Escherichia phage PA27, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|824464574"
+        },
+        {
+          featureid 3,
+          value "Escherichia phage PA27"
+        },
+        {
+          featureid 4,
+          value "Escherichia phage PA27, complete genome"
+        },
+        {
+          featureid 5,
+          value "KP682380.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia phage PA27"
+        },
+        {
+          featureid 7,
+          value "38"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 55,
+      parent 21,
+      features {
+        {
+          featureid 0,
+          value "Escherichia phage PA21, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|824464414"
+        },
+        {
+          featureid 3,
+          value "Escherichia phage PA21"
+        },
+        {
+          featureid 4,
+          value "Escherichia phage PA21, complete genome"
+        },
+        {
+          featureid 5,
+          value "KP682379.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia phage PA21"
+        },
+        {
+          featureid 7,
+          value "39"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 56,
+      parent 20,
+      features {
+        {
+          featureid 0,
+          value "Escherichia phage PA16, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|824464114"
+        },
+        {
+          featureid 3,
+          value "Escherichia phage PA16"
+        },
+        {
+          featureid 4,
+          value "Escherichia phage PA16, complete genome"
+        },
+        {
+          featureid 5,
+          value "KP682377.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia phage PA16"
+        },
+        {
+          featureid 7,
+          value "40"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 57,
+      parent 19,
+      features {
+        {
+          featureid 0,
+          value "Escherichia phage PA11, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|824463972"
+        },
+        {
+          featureid 3,
+          value "Escherichia phage PA11"
+        },
+        {
+          featureid 4,
+          value "Escherichia phage PA11, complete genome"
+        },
+        {
+          featureid 5,
+          value "KP682375.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia phage PA11"
+        },
+        {
+          featureid 7,
+          value "41"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 58,
+      parent 18,
+      features {
+        {
+          featureid 0,
+          value "Escherichia phage PA5, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|824463670"
+        },
+        {
+          featureid 3,
+          value "Escherichia phage PA5"
+        },
+        {
+          featureid 4,
+          value "Escherichia phage PA5, complete genome"
+        },
+        {
+          featureid 5,
+          value "KP682373.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia phage PA5"
+        },
+        {
+          featureid 7,
+          value "42"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 59,
+      parent 17,
+      features {
+        {
+          featureid 0,
+          value "Escherichia phage PA4, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|824463508"
+        },
+        {
+          featureid 3,
+          value "Escherichia phage PA4"
+        },
+        {
+          featureid 4,
+          value "Escherichia phage PA4, complete genome"
+        },
+        {
+          featureid 5,
+          value "KP682372.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia phage PA4"
+        },
+        {
+          featureid 7,
+          value "43"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 60,
+      parent 16,
+      features {
+        {
+          featureid 0,
+          value "Escherichia Stx1-converting recombinant phage HUN/2013,
+ complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|665409748"
+        },
+        {
+          featureid 3,
+          value "Escherichia Stx1-converting recombinant phage HUN/2013"
+        },
+        {
+          featureid 4,
+          value "Escherichia Stx1-converting recombinant phage HUN/2013,
+ complete genome"
+        },
+        {
+          featureid 5,
+          value "KJ909655.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia Stx1-converting recombinant phage HUN/2013"
+        },
+        {
+          featureid 7,
+          value "44"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 61,
+      parent 15,
+      features {
+        {
+          featureid 0,
+          value "Stx2-converting phage 1717, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|209361105"
+        },
+        {
+          featureid 3,
+          value "Stx2-converting phage 1717"
+        },
+        {
+          featureid 4,
+          value "Stx2-converting phage 1717, complete genome"
+        },
+        {
+          featureid 5,
+          value "FJ188381.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Stx2-converting phage 1717"
+        },
+        {
+          featureid 7,
+          value "45"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 62,
+      parent 14,
+      features {
+        {
+          featureid 0,
+          value "Enterobacteria phage YYZ-2008, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|208970794"
+        },
+        {
+          featureid 3,
+          value "Enterobacteria phage YYZ-2008"
+        },
+        {
+          featureid 4,
+          value "Enterobacteria phage YYZ-2008, complete genome"
+        },
+        {
+          featureid 5,
+          value "FJ184280.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Enterobacteria phage YYZ-2008"
+        },
+        {
+          featureid 7,
+          value "46"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 63,
+      parent 13,
+      features {
+        {
+          featureid 0,
+          value "Enterobacteria phage 2851, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|209407371"
+        },
+        {
+          featureid 3,
+          value "Enterobacteria phage 2851"
+        },
+        {
+          featureid 4,
+          value "Enterobacteria phage 2851, complete genome"
+        },
+        {
+          featureid 5,
+          value "FM180578.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Enterobacteria phage 2851"
+        },
+        {
+          featureid 7,
+          value "47"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 64,
+      parent 12,
+      features {
+        {
+          featureid 0,
+          value "Stx2 converting phage II DNA, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|32128180"
+        },
+        {
+          featureid 3,
+          value "Escherichia phage Stx2 II"
+        },
+        {
+          featureid 4,
+          value "Stx2 converting phage II DNA, complete genome"
+        },
+        {
+          featureid 5,
+          value "AP005154.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia phage Stx2 II"
+        },
+        {
+          featureid 7,
+          value "48"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 65,
+      parent 11,
+      features {
+        {
+          featureid 0,
+          value "Stx1 converting phage DNA, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|32128012"
+        },
+        {
+          featureid 3,
+          value "Escherichia Stx1 converting phage"
+        },
+        {
+          featureid 4,
+          value "Stx1 converting phage DNA, complete genome"
+        },
+        {
+          featureid 5,
+          value "AP005153.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia Stx1 converting phage"
+        },
+        {
+          featureid 7,
+          value "49"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 66,
+      parent 10,
+      features {
+        {
+          featureid 0,
+          value "Bacteriophage Nil2 proviral n gene, ORF22, ci gene, cro gene,
+ cii gene, ORF53, o gene, p gene, ninA gene, ORF29, ORF30, ORF31, ninB gene,
+ ORF175, ninE gene, ORF23, ORF57, antA gene, antB gene, roi gene, ninG gene,
+ ninI gene, q gene, stx2A gene, stx2B gene, ileZ gene, argN gene and argO gene"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|23343450"
+        },
+        {
+          featureid 3,
+          value "Enterobacteria phage Nil2"
+        },
+        {
+          featureid 4,
+          value "Bacteriophage Nil2 proviral n gene, ORF22, ci gene, cro gene,
+ cii gene, ORF53, o gene, p gene, ninA gene, ORF29, ORF30, ORF31, ninB gene,
+ ORF175, ninE gene, ORF23, ORF57, antA gene, antB gene, roi gene, ninG gene,
+ ninI gene, q gene, stx2A gene, stx2B gene, ileZ gene, argN gene and argO gene"
+        },
+        {
+          featureid 5,
+          value "AJ413274.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Enterobacteria phage Nil2"
+        },
+        {
+          featureid 7,
+          value "50"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 67,
+      parent 9,
+      features {
+        {
+          featureid 0,
+          value "Enterobacteria phage VT2-Sakai cI gene for repressor protein,
+ complete cds"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|6729333"
+        },
+        {
+          featureid 3,
+          value "Enterobacteria phage VT2-Sakai"
+        },
+        {
+          featureid 4,
+          value "Enterobacteria phage VT2-Sakai cI gene for repressor protein,
+ complete cds"
+        },
+        {
+          featureid 5,
+          value "AB037107.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Enterobacteria phage VT2-Sakai"
+        },
+        {
+          featureid 7,
+          value "51"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 68,
+      parent 8,
+      features {
+        {
+          featureid 0,
+          value "Enterobacteria phage VT2-Sakai proviral DNA, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|5881592"
+        },
+        {
+          featureid 3,
+          value "Enterobacteria phage VT2-Sakai"
+        },
+        {
+          featureid 4,
+          value "Enterobacteria phage VT2-Sakai proviral DNA, complete genome"
+        },
+        {
+          featureid 5,
+          value "AP000363.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Enterobacteria phage VT2-Sakai"
+        },
+        {
+          featureid 7,
+          value "52"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 69,
+      parent 1,
+      features {
+        {
+          featureid 0,
+          value "Escherichia virus Lambda_2G7b genome assembly, chromosome: 1"
+        },
+        {
+          featureid 1,
+          value "0.00486551"
+        },
+        {
+          featureid 2,
+          value "gi|1779413244"
+        },
+        {
+          featureid 3,
+          value "Escherichia virus Lambda_2G7b"
+        },
+        {
+          featureid 4,
+          value "Escherichia virus Lambda_2G7b genome assembly, chromosome: 1"
+        },
+        {
+          featureid 5,
+          value "LR595866.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia virus Lambda_2G7b"
+        },
+        {
+          featureid 7,
+          value "20"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 70,
+      parent 0,
+      features {
+        {
+          featureid 1,
+          value "0.0131395"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses and unknown"
+        },
+        {
+          featureid 14,
+          value "21"
+        },
+        {
+          featureid 10,
+          value "255 255 0"
+        }
+      }
+    },
+    {
+      id 71,
+      parent 70,
+      features {
+        {
+          featureid 0,
+          value "Escherichia virus Lambda genome assembly, chromosome: 1"
+        },
+        {
+          featureid 1,
+          value "0.00152628"
+        },
+        {
+          featureid 2,
+          value "gi|1779413758"
+        },
+        {
+          featureid 3,
+          value "Escherichia virus Lambda"
+        },
+        {
+          featureid 4,
+          value "Escherichia virus Lambda genome assembly, chromosome: 1"
+        },
+        {
+          featureid 5,
+          value "LR597635.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia virus Lambda"
+        },
+        {
+          featureid 7,
+          value "18"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 72,
+      parent 70,
+      features {
+        {
+          featureid 1,
+          value "0.00675639"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses and unknown"
+        },
+        {
+          featureid 14,
+          value "20"
+        },
+        {
+          featureid 10,
+          value "255 255 0"
+        }
+      }
+    },
+    {
+      id 73,
+      parent 72,
+      features {
+        {
+          featureid 0,
+          value "Enterobacteria phage mEp332 restriction alleviation (ral),
+ superinfection exclusion protein B (sieB), antitermination protein (N),
+ conserved hypothetical protein (mEp33204), prophage repressor (cI), repressor
+ (cro), and transcriptional activator (cII) genes, complete cds"
+        },
+        {
+          featureid 1,
+          value "0.0234503"
+        },
+        {
+          featureid 2,
+          value "gi|133873973"
+        },
+        {
+          featureid 3,
+          value "Enterobacteria phage mEp332"
+        },
+        {
+          featureid 4,
+          value "Enterobacteria phage mEp332 restriction alleviation (ral),
+ superinfection exclusion protein B (sieB), antitermination protein (N),
+ conserved hypothetical protein (mEp33204), prophage repressor (cI), repressor
+ (cro), and transcriptional activator (cII) genes, complete cds"
+        },
+        {
+          featureid 5,
+          value "EF120456.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Enterobacteria phage mEp332"
+        },
+        {
+          featureid 7,
+          value "19"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 74,
+      parent 72,
+      features {
+        {
+          featureid 1,
+          value "0.00101032"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses and unknown"
+        },
+        {
+          featureid 14,
+          value "19"
+        },
+        {
+          featureid 10,
+          value "255 255 0"
+        }
+      }
+    },
+    {
+      id 75,
+      parent 74,
+      features {
+        {
+          featureid 1,
+          value "0.00475254"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "6"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 76,
+      parent 75,
+      features {
+        {
+          featureid 0,
+          value "Enterobacteria phage CL707 IS10 transposase (IS10
+ transposase) gene, partial cds; and hypothetical protein (CL70702),
+ antitermination protein (N), hypothetical protein (CL70704), prophage
+ repressor (cI), repressor (cro), and transcriptional activator (cII) genes,
+ complete cds"
+        },
+        {
+          featureid 1,
+          value "0.00740387"
+        },
+        {
+          featureid 2,
+          value "gi|133873999"
+        },
+        {
+          featureid 3,
+          value "Enterobacteria phage CL707"
+        },
+        {
+          featureid 4,
+          value "Enterobacteria phage CL707 IS10 transposase (IS10
+ transposase) gene, partial cds; and hypothetical protein (CL70702),
+ antitermination protein (N), hypothetical protein (CL70704), prophage
+ repressor (cI), repressor (cro), and transcriptional activator (cII) genes,
+ complete cds"
+        },
+        {
+          featureid 5,
+          value "EF120459.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Enterobacteria phage CL707"
+        },
+        {
+          featureid 7,
+          value "12"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 77,
+      parent 75,
+      features {
+        {
+          featureid 1,
+          value "0.00826623"
+        },
+        {
+          featureid 12,
+          value "1"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "5"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 78,
+      parent 77,
+      features {
+        {
+          featureid 0,
+          value "Bacteriophage HK97, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|6901584"
+        },
+        {
+          featureid 3,
+          value "Escherichia virus HK97"
+        },
+        {
+          featureid 4,
+          value "Bacteriophage HK97, complete genome"
+        },
+        {
+          featureid 5,
+          value "AF069529.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia virus HK97"
+        },
+        {
+          featureid 7,
+          value "13"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 79,
+      parent 77,
+      features {
+        {
+          featureid 1,
+          value "0.0014678"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "4"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 80,
+      parent 79,
+      features {
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "3"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 81,
+      parent 80,
+      features {
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "2"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 82,
+      parent 81,
+      features {
+        {
+          featureid 0,
+          value "Enterobacterial phage mEp234, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|392505986"
+        },
+        {
+          featureid 3,
+          value "Escherichia phage mEp234"
+        },
+        {
+          featureid 4,
+          value "Enterobacterial phage mEp234, complete genome"
+        },
+        {
+          featureid 5,
+          value "JQ182732.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia phage mEp234"
+        },
+        {
+          featureid 7,
+          value "14"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 83,
+      parent 81,
+      features {
+        {
+          featureid 0,
+          value "Enterobacteria phage HK106, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|383395249"
+        },
+        {
+          featureid 3,
+          value "Enterobacteria phage HK106"
+        },
+        {
+          featureid 4,
+          value "Enterobacteria phage HK106, complete genome"
+        },
+        {
+          featureid 5,
+          value "JQ086369.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Enterobacteria phage HK106"
+        },
+        {
+          featureid 7,
+          value "15"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 84,
+      parent 80,
+      features {
+        {
+          featureid 0,
+          value "Enterobacteria phage HK106 conserved hypothetical protein
+ (HK10601), antitermination protein (N), hypothetical protein (HK10603),
+ putative hif-contiguous protein B (hicB), putative hif-contiguous protein A
+ (hicA), prophage repressor (cI), repressor (cro), and transcriptional
+ activator (cII) genes, complete cds"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|133874016"
+        },
+        {
+          featureid 3,
+          value "Enterobacteria phage HK106"
+        },
+        {
+          featureid 4,
+          value "Enterobacteria phage HK106 conserved hypothetical protein
+ (HK10601), antitermination protein (N), hypothetical protein (HK10603),
+ putative hif-contiguous protein B (hicB), putative hif-contiguous protein A
+ (hicA), prophage repressor (cI), repressor (cro), and transcriptional
+ activator (cII) genes, complete cds"
+        },
+        {
+          featureid 5,
+          value "EF120461.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Enterobacteria phage HK106"
+        },
+        {
+          featureid 7,
+          value "16"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 85,
+      parent 79,
+      features {
+        {
+          featureid 0,
+          value "Enterobacteria phage mEp234 conserved hypothetical protein
+ (mEp23401), antitermination protein (N), hypothetical protein (mEp23403),
+ putative hif-contiguous protein B (hicB), putative hif-contiguous protein A
+ (hicA), prophage repressor (cI), repressor (cro), and transcriptional
+ activator (cII) genes, complete cds"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|133874007"
+        },
+        {
+          featureid 3,
+          value "Enterobacteria phage mEp234"
+        },
+        {
+          featureid 4,
+          value "Enterobacteria phage mEp234 conserved hypothetical protein
+ (mEp23401), antitermination protein (N), hypothetical protein (mEp23403),
+ putative hif-contiguous protein B (hicB), putative hif-contiguous protein A
+ (hicA), prophage repressor (cI), repressor (cro), and transcriptional
+ activator (cII) genes, complete cds"
+        },
+        {
+          featureid 5,
+          value "EF120460.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Enterobacteria phage mEp234"
+        },
+        {
+          featureid 7,
+          value "17"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 86,
+      parent 74,
+      features {
+        {
+          featureid 1,
+          value "0.00667076"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses and unknown"
+        },
+        {
+          featureid 14,
+          value "13"
+        },
+        {
+          featureid 10,
+          value "255 255 0"
+        }
+      }
+    },
+    {
+      id 87,
+      parent 86,
+      features {
+        {
+          featureid 1,
+          value "0.00504504"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "3"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 88,
+      parent 87,
+      features {
+        {
+          featureid 0,
+          value "Enterobacteria phage HK244 hypothetical protein (HK24402)
+ gene, partial cds; and hypothetical protein (HK24401), antitermination
+ protein (N), hypothetical protein (HK24404), hypothetical protein (HK24405),
+ prophage repressor (cI), repressor (cro), and transcriptional activator (cII)
+ genes, complete cds"
+        },
+        {
+          featureid 1,
+          value "2.72492e-05"
+        },
+        {
+          featureid 2,
+          value "gi|133873981"
+        },
+        {
+          featureid 3,
+          value "Enterobacteria phage HK244"
+        },
+        {
+          featureid 4,
+          value "Enterobacteria phage HK244 hypothetical protein (HK24402)
+ gene, partial cds; and hypothetical protein (HK24401), antitermination
+ protein (N), hypothetical protein (HK24404), hypothetical protein (HK24405),
+ prophage repressor (cI), repressor (cro), and transcriptional activator (cII)
+ genes, complete cds"
+        },
+        {
+          featureid 5,
+          value "EF120457.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Enterobacteria phage HK244"
+        },
+        {
+          featureid 7,
+          value "7"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 89,
+      parent 87,
+      features {
+        {
+          featureid 1,
+          value "0.00137462"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "2"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 90,
+      parent 89,
+      features {
+        {
+          featureid 0,
+          value "Enterobacteria phage HK542, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|383396568"
+        },
+        {
+          featureid 3,
+          value "Escherichia phage HK542"
+        },
+        {
+          featureid 4,
+          value "Enterobacteria phage HK542, complete genome"
+        },
+        {
+          featureid 5,
+          value "JQ086373.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia phage HK542"
+        },
+        {
+          featureid 7,
+          value "8"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 91,
+      parent 89,
+      features {
+        {
+          featureid 0,
+          value "Enterobacteria phage HK542 hypothetical protein (HK542c101),
+ hypothetical protein (HK542c102), antitermination protein (N), hypothetical
+ protein (HK542c104), hypothetical protein (HK542c105), prophage repressor
+ (cI), repressor (cro), and transcriptional activator (cII) genes, complete cds"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|133873990"
+        },
+        {
+          featureid 3,
+          value "Escherichia phage HK542"
+        },
+        {
+          featureid 4,
+          value "Enterobacteria phage HK542 hypothetical protein (HK542c101),
+ hypothetical protein (HK542c102), antitermination protein (N), hypothetical
+ protein (HK542c104), hypothetical protein (HK542c105), prophage repressor
+ (cI), repressor (cro), and transcriptional activator (cII) genes, complete cds"
+        },
+        {
+          featureid 5,
+          value "EF120458.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia phage HK542"
+        },
+        {
+          featureid 7,
+          value "9"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 92,
+      parent 86,
+      features {
+        {
+          featureid 1,
+          value "0.00168261"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses and unknown"
+        },
+        {
+          featureid 14,
+          value "10"
+        },
+        {
+          featureid 10,
+          value "255 255 0"
+        }
+      }
+    },
+    {
+      id 93,
+      parent 92,
+      features {
+        {
+          featureid 1,
+          value "0.010809"
+        },
+        {
+          featureid 12,
+          value "1"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "2"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 94,
+      parent 93,
+      features {
+        {
+          featureid 0,
+          value "Enterobacteria phage HK544, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|383395124"
+        },
+        {
+          featureid 3,
+          value "Escherichia phage HK544"
+        },
+        {
+          featureid 4,
+          value "Enterobacteria phage HK544, complete genome"
+        },
+        {
+          featureid 5,
+          value "JQ086374.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia phage HK544"
+        },
+        {
+          featureid 7,
+          value "10"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 95,
+      parent 93,
+      features {
+        {
+          featureid 0,
+          value "Enterobacteria phage HK544 restriction alleviation (ral)
+ gene, partial cds; and antitermination protein (N), conserved hypothetical
+ protein (HK544c103), conserved hypothetical protein (HK544c104), prophage
+ repressor (cI), repressor (cro), and transcriptional activator (cII) genes,
+ complete cds"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|133873965"
+        },
+        {
+          featureid 3,
+          value "Escherichia phage HK544"
+        },
+        {
+          featureid 4,
+          value "Enterobacteria phage HK544 restriction alleviation (ral)
+ gene, partial cds; and antitermination protein (N), conserved hypothetical
+ protein (HK544c103), conserved hypothetical protein (HK544c104), prophage
+ repressor (cI), repressor (cro), and transcriptional activator (cII) genes,
+ complete cds"
+        },
+        {
+          featureid 5,
+          value "EF120455.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia phage HK544"
+        },
+        {
+          featureid 7,
+          value "11"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 96,
+      parent 92,
+      features {
+        {
+          featureid 1,
+          value "0.00288225"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses and unknown"
+        },
+        {
+          featureid 14,
+          value "8"
+        },
+        {
+          featureid 10,
+          value "255 255 0"
+        }
+      }
+    },
+    {
+      id 97,
+      parent 96,
+      features {
+        {
+          featureid 0,
+          value "Escherichia phage Lambda, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|215104"
+        },
+        {
+          featureid 3,
+          value "Escherichia phage Lambda"
+        },
+        {
+          featureid 4,
+          value "Escherichia phage Lambda, complete genome"
+        },
+        {
+          featureid 5,
+          value "J02459.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia phage Lambda"
+        },
+        {
+          featureid 7,
+          value "2"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 98,
+      parent 96,
+      features {
+        {
+          featureid 1,
+          value "0.000565301"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses and unknown"
+        },
+        {
+          featureid 14,
+          value "7"
+        },
+        {
+          featureid 10,
+          value "255 255 0"
+        }
+      }
+    },
+    {
+      id 99,
+      parent 98,
+      features {
+        {
+          featureid 0,
+          value "Enterobacteria phage SfI, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|404074285"
+        },
+        {
+          featureid 3,
+          value "Enterobacteria phage SfI"
+        },
+        {
+          featureid 4,
+          value "Enterobacteria phage SfI, complete genome"
+        },
+        {
+          featureid 5,
+          value "JX509734.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Enterobacteria phage SfI"
+        },
+        {
+          featureid 7,
+          value "1"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 100,
+      parent 98,
+      features {
+        {
+          featureid 1,
+          value "0.000565301"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses and unknown"
+        },
+        {
+          featureid 14,
+          value "6"
+        },
+        {
+          featureid 10,
+          value "255 255 0"
+        }
+      }
+    },
+    {
+      id 101,
+      parent 100,
+      features {
+        {
+          featureid 0,
+          value "Enterobacteria phage lambda, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|9626243"
+        },
+        {
+          featureid 3,
+          value "unknown"
+        },
+        {
+          featureid 4,
+          value "Enterobacteria phage lambda, complete genome"
+        },
+        {
+          featureid 5,
+          value "NC_001416.1"
+        },
+        {
+          featureid 6,
+          value "unknown"
+        },
+        {
+          featureid 15,
+          value "unknown"
+        },
+        {
+          featureid 7,
+          value "0"
+        },
+        {
+          featureid 8,
+          value "0 0 255"
+        },
+        {
+          featureid 10,
+          value "255 255 0"
+        },
+        {
+          featureid 11,
+          value "255 0 0"
+        },
+        {
+          featureid 13,
+          value "query"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 102,
+      parent 100,
+      features {
+        {
+          featureid 1,
+          value "0.000562338"
+        },
+        {
+          featureid 12,
+          value "1"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "5"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 103,
+      parent 102,
+      features {
+        {
+          featureid 1,
+          value "0.000910015"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "4"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 104,
+      parent 103,
+      features {
+        {
+          featureid 1,
+          value "0.00162297"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "3"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 105,
+      parent 104,
+      features {
+        {
+          featureid 1,
+          value "0.00119283"
+        },
+        {
+          featureid 12,
+          value "0"
+        },
+        {
+          featureid 0,
+          value "viruses"
+        },
+        {
+          featureid 14,
+          value "2"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        }
+      }
+    },
+    {
+      id 106,
+      parent 105,
+      features {
+        {
+          featureid 0,
+          value "Bacteriophage sp. isolate 528, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|1799113126"
+        },
+        {
+          featureid 3,
+          value "unidentified phage"
+        },
+        {
+          featureid 4,
+          value "Bacteriophage sp. isolate 528, complete genome"
+        },
+        {
+          featureid 5,
+          value "MN855687.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "unidentified phage"
+        },
+        {
+          featureid 7,
+          value "5"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 107,
+      parent 105,
+      features {
+        {
+          featureid 0,
+          value "Bacteriophage sp. isolate 181, complete genome"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|1799113012"
+        },
+        {
+          featureid 3,
+          value "unidentified phage"
+        },
+        {
+          featureid 4,
+          value "Bacteriophage sp. isolate 181, complete genome"
+        },
+        {
+          featureid 5,
+          value "MN855678.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "unidentified phage"
+        },
+        {
+          featureid 7,
+          value "6"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 108,
+      parent 104,
+      features {
+        {
+          featureid 0,
+          value "rex gene of phage lambda"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|15067"
+        },
+        {
+          featureid 3,
+          value "Phage 434"
+        },
+        {
+          featureid 4,
+          value "rex gene of phage lambda"
+        },
+        {
+          featureid 5,
+          value "V00639.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Phage 434"
+        },
+        {
+          featureid 7,
+          value "55"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 109,
+      parent 103,
+      features {
+        {
+          featureid 0,
+          value "Escherichia virus Lambda genome assembly, chromosome: 1"
+        },
+        {
+          featureid 1,
+          value "0.000483782"
+        },
+        {
+          featureid 2,
+          value "gi|1779413983"
+        },
+        {
+          featureid 3,
+          value "Escherichia virus Lambda"
+        },
+        {
+          featureid 4,
+          value "Escherichia virus Lambda genome assembly, chromosome: 1"
+        },
+        {
+          featureid 5,
+          value "LR597639.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia virus Lambda"
+        },
+        {
+          featureid 7,
+          value "3"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    },
+    {
+      id 110,
+      parent 102,
+      features {
+        {
+          featureid 0,
+          value "Bacteriophage lambda cI gene encoding the repressor protein
+ for transcriptional control of tetracycline resistance on plasmid pTR 262"
+        },
+        {
+          featureid 1,
+          value "0"
+        },
+        {
+          featureid 2,
+          value "gi|15056"
+        },
+        {
+          featureid 3,
+          value "Escherichia virus Lambda"
+        },
+        {
+          featureid 4,
+          value "Bacteriophage lambda cI gene encoding the repressor protein
+ for transcriptional control of tetracycline resistance on plasmid pTR 262"
+        },
+        {
+          featureid 5,
+          value "X00166.1"
+        },
+        {
+          featureid 6,
+          value "viruses"
+        },
+        {
+          featureid 15,
+          value "Escherichia virus Lambda"
+        },
+        {
+          featureid 7,
+          value "4"
+        },
+        {
+          featureid 8,
+          value "0 255 0"
+        },
+        {
+          featureid 12,
+          value "0"
+        }
+      }
+    }
+  }
+}
