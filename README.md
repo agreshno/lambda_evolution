@@ -8,7 +8,7 @@ These viruses can exist in two modes:
 
 The central regulator of this process is **the repressor**, which controls the expression of other bacterial genes. It regulates it by binding with a special regulatory region - **an operator**, which usually is a part of **a promoter** (or several promoters). Through binding to an operator, it prevents recruiting of RNA polymerase and thus downregulates gene expression [1]. 
 
-In my work, I would like to investigate the evolution of the repressor protein (CI protein) which plays a crucial role in regulating the life cycle of a phage. I would like to start with CI protein of phage lambda and then answer on the following questions:
+In my work, I would like to investigate the evolution of the repressor protein (CI protein) which plays a crucial role in regulating the life cycle of a phage. I would like to start with CI protein of phage lambda and then answer the following questions:
 
 - What are viruses who have homologs of CI proteins in their genomes? 
 - How do these CI proteins are different and relate to each other?
