@@ -1,0 +1,3206 @@
+RID: BRARR6F7016	
+Job Title:AQ273744:nbxb0030H04f CUGI Rice BAC Library...				
+Program: BLASTX 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1:  Query ID: lcl|Query_60374 Length: 714
+
+Sequences producing significant alignments:
+                                                                  Max    Total Query    E    Per.                  
+Description                                                       Score  Score cover Value  Ident  Accession        
+CI with mf ssrA tag [Cloning vector DH6-2]                        464    464   99%   2e-164 100.00 AFN88250.1       
+cI-LVA [Expression vector pDawn]                                  463    463   99%   2e-164 100.00 AFH34992.1       
+cI(LVA) [Cloning vector pFNK-804-lacO-lacI]                       462    462   99%   5e-164 99.58  AWV91939.1       
+MULTISPECIES: LexA family transcriptional regulator...            462    462   99%   6e-164 100.00 WP_000104863.1   
+LexA family transcriptional regulator [Escherichia coli]          462    462   99%   8e-164 99.58  EEU9355564.1     
+temperature-sensitive lambdaPL-repressor [Expression plasmid...   461    461   99%   1e-163 99.58  AHA12293.1       
+LexA family transcriptional regulator [Escherichia coli]          461    461   99%   2e-163 99.58  EFB7574583.1     
+cI857 [Expression vector pLZ2]                                    461    461   99%   2e-163 99.16  AID07481.1       
+MULTISPECIES: LexA family transcriptional regulator [Bacteria]    461    461   99%   2e-163 99.16  WP_000104864.1   
+temperature-sensitive lambda-repressor [Cloning vector pPL450]    461    461   99%   2e-163 99.58  BAE79430.1       
+LexA family transcriptional regulator [Escherichia coli]          460    460   99%   2e-163 99.58  WP_089626998.1   
+LexA family transcriptional regulator [Escherichia coli]          460    460   99%   3e-163 99.58  WP_001542706.1   
+CI857 repressor [Expression vector pS238D1.M]                     461    461   99%   3e-163 99.16  QGN03481.1       
+LexA family transcriptional regulator [Escherichia coli]          460    460   99%   3e-163 99.58  WP_077150723.1   
+MULTISPECIES: LexA family transcriptional regulator [Escherichia] 460    460   99%   3e-163 99.58  WP_001274755.1   
+LexA family transcriptional regulator [Escherichia coli]          460    460   99%   4e-163 99.58  WP_112909117.1   
+MULTISPECIES: LexA family transcriptional regulator...            459    459   99%   5e-163 99.58  WP_032200173.1   
+LexA family transcriptional regulator [Escherichia coli]          459    459   99%   6e-163 98.73  WP_101348571.1   
+helix-turn-helix domain-containing protein [Escherichia coli]     459    459   99%   7e-163 99.58  EFH6121722.1     
+LexA family transcriptional regulator [Streptococcus pneumoniae]  459    459   99%   7e-163 98.73  TXM00426.1       
+LexA family transcriptional regulator [Escherichia coli]          459    459   99%   8e-163 99.16  EFA6104039.1     
+LexA family transcriptional regulator [Escherichia coli]          459    459   99%   9e-163 99.16  WP_089564540.1   
+helix-turn-helix domain-containing protein [Escherichia coli]     459    459   99%   1e-162 99.58  EFH6891559.1     
+helix-turn-helix domain-containing protein [Escherichia coli]     459    459   99%   1e-162 99.16  WP_160537293.1   
+MULTISPECIES: LexA family transcriptional regulator...            459    459   99%   1e-162 99.16  WP_001274760.1   
+lambda cI repressor (temperature sensitive) [Cloning vector pWAS] 459    459   99%   1e-162 99.16  AXN69964.1       
+LexA family transcriptional regulator [Escherichia coli]          459    459   99%   1e-162 99.16  WP_023307777.1   
+LexA family transcriptional regulator [Escherichia coli]          459    459   99%   1e-162 98.73  WP_136764200.1   
+LexA family transcriptional regulator [Escherichia coli]          459    459   99%   1e-162 98.73  WP_089519092.1   
+LexA family transcriptional regulator [Escherichia coli]          459    459   99%   1e-162 99.16  WP_137518088.1   
+LexA family transcriptional regulator [Escherichia coli]          459    459   99%   1e-162 99.16  WP_040091922.1   
+LexA family transcriptional regulator [Escherichia coli]          458    458   99%   1e-162 99.16  WP_096319504.1   
+prophage repressor [Escherichia phage HK544]                      458    458   99%   1e-162 99.58  YP_007151649.1   
+LexA family transcriptional regulator [Escherichia coli]          458    458   99%   1e-162 99.16  EEY6114434.1     
+LexA family transcriptional regulator [Escherichia coli]          458    458   99%   2e-162 98.73  WP_089584189.1   
+LexA family transcriptional regulator [Escherichia coli]          458    458   99%   2e-162 98.73  WP_106464549.1   
+LexA family transcriptional regulator [Escherichia albertii]      458    458   99%   2e-162 98.73  EFB2225358.1     
+LexA family transcriptional regulator [Escherichia coli]          458    458   99%   2e-162 99.16  WP_057695464.1   
+LexA family transcriptional regulator [Escherichia coli]          458    458   99%   2e-162 99.16  WP_097487432.1   
+LexA family transcriptional regulator [Streptococcus pneumoniae]  458    458   99%   2e-162 98.73  WP_101514270.1   
+LexA family transcriptional regulator [Escherichia coli]          458    458   99%   2e-162 98.73  WP_001767474.1   
+LexA family transcriptional regulator [Pseudomonas aeruginosa]    458    458   99%   2e-162 98.73  WP_134566181.1   
+prophage repressor [Escherichia phage HK542]                      458    458   99%   3e-162 99.16  YP_007151772.1   
+LexA family transcriptional regulator [Escherichia coli]          457    457   99%   3e-162 99.16  WP_111990509.1   
+LexA family transcriptional regulator [Escherichia coli]          457    457   99%   3e-162 98.73  WP_106884058.1   
+LexA family transcriptional regulator [Escherichia coli]          457    457   99%   3e-162 98.73  EFN5213298.1     
+LexA family transcriptional regulator [Escherichia coli]          457    457   99%   3e-162 98.73  EEV3195055.1     
+LexA family transcriptional regulator [Escherichia coli]          457    457   99%   3e-162 98.73  WP_112037603.1   
+helix-turn-helix domain-containing protein [Escherichia coli]     457    457   99%   3e-162 98.73  WP_148050695.1   
+helix-turn-helix domain-containing protein [Salmonella enterica]  457    457   99%   4e-162 98.73  WP_143552539.1   
+LexA family transcriptional regulator [Escherichia coli]          457    457   99%   4e-162 98.73  WP_001274759.1   
+LexA family transcriptional regulator [Escherichia coli]          457    457   99%   4e-162 98.73  WP_001274758.1   
+LexA family transcriptional regulator [Escherichia coli]          457    457   99%   4e-162 98.73  WP_021543246.1   
+LexA family transcriptional regulator [Escherichia coli]          457    457   99%   4e-162 98.73  WP_087895497.1   
+helix-turn-helix domain-containing protein [Escherichia coli]     457    457   99%   4e-162 98.31  EFH5657107.1     
+LexA family transcriptional regulator [Escherichia coli]          457    457   99%   4e-162 98.73  WP_109552340.1   
+LexA family transcriptional regulator [Escherichia coli]          457    457   99%   5e-162 98.73  EEV9947429.1     
+LexA family transcriptional regulator [Escherichia coli]          457    457   99%   5e-162 98.73  EFD2582950.1     
+MULTISPECIES: LexA family transcriptional regulator...            457    457   99%   5e-162 98.73  WP_001716786.1   
+LexA family transcriptional regulator [Escherichia coli]          457    457   99%   5e-162 98.73  EFL5814902.1     
+LexA family transcriptional regulator [Salmonella enterica]       457    457   99%   5e-162 98.73  EBF8713544.1     
+LexA family transcriptional regulator [Escherichia coli]          457    457   99%   6e-162 98.73  EFC4703139.1     
+LexA family transcriptional regulator [Escherichia coli]          457    457   99%   6e-162 98.31  WP_047662501.1   
+LexA family transcriptional regulator [Escherichia coli]          457    457   99%   6e-162 99.16  WP_134354271.1   
+Chain A, Crystal Structure Of The Lambda Repressor [Escherichi... 457    457   99%   6e-162 99.58  3BDN_A           
+LexA family transcriptional regulator [Escherichia coli]          457    457   99%   7e-162 98.73  EFD9711133.1     
+LexA family transcriptional regulator [Escherichia coli]          457    457   99%   7e-162 98.73  WP_098734044.1   
+LexA family transcriptional regulator [Cronobacter sakazakii]     457    457   98%   7e-162 99.15  WP_088262628.1   
+LexA family transcriptional regulator [Escherichia coli]          457    457   99%   7e-162 98.73  WP_044720470.1   
+helix-turn-helix domain-containing protein [Escherichia coli]     457    457   99%   7e-162 98.73  EFF1819221.1     
+LexA family transcriptional regulator [Escherichia coli]          457    457   99%   7e-162 98.73  EFK2663426.1     
+LexA family transcriptional regulator [Escherichia coli]          457    457   99%   7e-162 98.31  WP_001274757.1   
+helix-turn-helix domain-containing protein [Escherichia coli]     457    457   99%   7e-162 98.31  EFH3680195.1     
+LexA family transcriptional regulator [Escherichia coli]          457    457   99%   8e-162 98.73  EFA7470171.1     
+LexA family transcriptional regulator [Escherichia coli]          456    456   99%   8e-162 98.73  EEV6129391.1     
+helix-turn-helix domain-containing protein [Escherichia coli]     456    456   99%   9e-162 98.31  WP_152779046.1   
+LexA family transcriptional regulator [Escherichia coli]          456    456   99%   9e-162 98.73  WP_053904669.1   
+helix-turn-helix domain-containing protein [Escherichia coli]     456    456   99%   1e-161 98.73  WP_152952771.1   
+LexA family transcriptional regulator [Escherichia coli]          456    456   99%   1e-161 98.31  EFG3022993.1     
+LexA family transcriptional regulator [Escherichia coli]          456    456   99%   1e-161 98.73  EFN6186449.1     
+MULTISPECIES: LexA family transcriptional regulator...            456    456   99%   1e-161 98.31  WP_047671703.1   
+LexA family transcriptional regulator [Escherichia coli]          456    456   99%   1e-161 98.31  WP_115333352.1   
+LexA family transcriptional regulator [Escherichia coli]          456    456   99%   1e-161 97.89  WP_064638121.1   
+LexA family transcriptional regulator [Escherichia coli]          456    456   99%   1e-161 98.73  WP_001274761.1   
+LexA family transcriptional regulator [Escherichia coli]          456    456   99%   1e-161 98.73  WP_032192607.1   
+heat-sensitive lambda citS857 repressor protein/VP16 fusion...    461    461   99%   1e-161 99.16  AAN86071.1       
+LexA family transcriptional regulator [Escherichia coli]          456    456   99%   2e-161 98.73  WP_062891499.1   
+LexA family transcriptional regulator [Escherichia coli]          456    456   99%   2e-161 98.73  WP_032235865.1   
+LexA family transcriptional regulator [Escherichia coli]          456    456   99%   2e-161 98.31  WP_001274753.1   
+LexA family transcriptional regulator [Escherichia coli]          456    456   99%   2e-161 98.31  EEZ5952049.1     
+LexA family transcriptional regulator [Escherichia coli]          456    456   99%   2e-161 98.73  EEU2274019.1     
+helix-turn-helix domain-containing protein [Escherichia coli]     455    455   99%   2e-161 98.31  EFF9755079.1     
+LexA family transcriptional regulator [Escherichia coli]          455    455   99%   2e-161 98.73  WP_108919115.1   
+MULTISPECIES: LexA family transcriptional regulator [Escherichia] 455    455   99%   2e-161 98.73  WP_001274763.1   
+TPA: LexA family transcriptional repressor [Escherichia coli]     455    455   99%   3e-161 98.73  HAJ0507885.1     
+LexA family transcriptional regulator [Escherichia coli]          455    455   99%   3e-161 98.73  WP_094304632.1   
+LexA family transcriptional regulator [Escherichia coli]          455    455   99%   3e-161 97.89  EFC1982452.1     
+MULTISPECIES: LexA family transcriptional regulator...            455    455   99%   3e-161 98.31  WP_053290081.1   
+LexA family transcriptional regulator [Bifidobacterium bifidum]   455    455   98%   3e-161 99.15  WP_035137677.1   
+LexA family transcriptional regulator [Escherichia coli]          455    455   99%   3e-161 97.89  WP_097563657.1   
+
+
+Alignments:
+>CI with mf ssrA tag [Cloning vector DH6-2]
+Sequence ID: AFN88250.1 Length: 264 
+>CI with mf Lon degradtion tag [Cloning vector DH4-27]
+Sequence ID: AFN88263.1 Length: 264 >CI with mf Lon degradation tag [Cloning vector DH7-18]
+Sequence ID: AFN88286.1 Length: 264 >CI with mf Lon degradation tag [Cloning vector DH7-19]
+Sequence ID: AFN88290.1 Length: 264 >CI with mf Lon degrdatio tag [Cloning vector DH7-20]
+Sequence ID: AFN88294.1 Length: 264 >CI with mf Lon degradation tag [Cloning vector DH7-21]
+Sequence ID: AFN88298.1 Length: 264 >CI with mf Lon degradation tag [Cloning vector DH7-22]
+Sequence ID: AFN88302.1 Length: 264 >CI with mf Lon degradation tag [Cloning vector DH7-23]
+Sequence ID: AFN88306.1 Length: 264 >CI with mf Lon degradation tag [Cloning vector DH7-24]
+Sequence ID: AFN88310.1 Length: 264  
+Range 1: 1 to 237
+
+Score:464 bits(1194), Expect:2e-164, 
+Method:Compositional matrix adjust., 
+Identities:237/237(100%), Positives:237/237(100%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>cI-LVA [Expression vector pDawn]
+Sequence ID: AFH34992.1 Length: 248 
+>CI_LVA [Cloning vector pNOR10-20]
+Sequence ID: AFI26423.1 Length: 248 >cI [Cloning vector SBa_000559]
+Sequence ID: AFI71016.1 Length: 248 >CI with LVA degradation tag [Cloning vector DH6-1]
+Sequence ID: AFN88247.1 Length: 248 >CI with ssrA degradation tag (LVA) [Cloning vector DH6-64]
+Sequence ID: AFN88260.1 Length: 248 >cI-LVA [Cloning vector pFF706]
+Sequence ID: AIZ09124.1 Length: 248 >lambda CI_LVA [Cloning vector pJFR3]
+Sequence ID: ARG47678.1 Length: 248  
+Range 1: 1 to 237
+
+Score:463 bits(1192), Expect:2e-164, 
+Method:Compositional matrix adjust., 
+Identities:237/237(100%), Positives:237/237(100%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>cI(LVA) [Cloning vector pFNK-804-lacO-lacI]
+Sequence ID: AWV91939.1 Length: 250 
+>cI(LVA) [Cloning vector pFNK-806]
+Sequence ID: AWV91945.1 Length: 250  
+Range 1: 1 to 237
+
+Score:462 bits(1190), Expect:5e-164, 
+Method:Compositional matrix adjust., 
+Identities:236/237(99%), Positives:237/237(100%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVS+EEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSIEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>MULTISPECIES: LexA family transcriptional regulator [Enterobacteriaceae]
+Sequence ID: WP_000104863.1 Length: 237 
+>repressor [Escherichia virus Lambda]
+Sequence ID: NP_040628.1 Length: 237 >phage lambda repressor protein CI [Escherichia coli]
+Sequence ID: YP_009062969.1 Length: 237 >repressor protein cI [Enterobacteria phage SfI]
+Sequence ID: YP_009147494.1 Length: 237 >RecName: Full=Repressor protein cI [Escherichia virus Lambda]
+Sequence ID: P03034.2 Length: 237 >rexb (exclusion;144) [Escherichia phage Lambda]
+Sequence ID: AAA96581.1 Length: 237 >lambda repressor CI [Expression vector pINV-110]
+Sequence ID: AAX29986.1 Length: 237 >lambda repressor protein [Low threshold vector pLTSUB-302]
+Sequence ID: AAX63486.1 Length: 237 >Repressor protein CI [Escherichia coli BW2952]
+Sequence ID: ACR65449.1 Length: 237 >CI [Cloning vector DH6-57]
+Sequence ID: AFN88253.1 Length: 237 >CI [Cloning vector DH6-78]
+Sequence ID: AFN88266.1 Length: 237 >LexA family transcriptional repressor [Shigella flexneri 1a]
+Sequence ID: ASQ64595.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica]
+Sequence ID: ECK9767727.1 Length: 237 >repressor [Escherichia coli J53]
+Sequence ID: EIE36156.1 Length: 237 >repressor protein CI [Escherichia coli KTE102]
+Sequence ID: EOW06361.1 Length: 237 >Repressor protein CI [Escherichia coli ECA-727]
+Sequence ID: EST77644.1 Length: 237 >repressor [Escherichia coli O145:H28 str. 2009C-3292]
+Sequence ID: EZD99310.1 Length: 237 >repressor [Escherichia coli O145:H25 str. 07-3858]
+Sequence ID: KDV28412.1 Length: 237 >repressor protein CI [Escherichia coli 3-020-07_S1_C1]
+Sequence ID: KDZ20646.1 Length: 237 >repressor protein CI [Escherichia coli 3-020-07_S1_C2]
+Sequence ID: KDZ22950.1 Length: 237 >repressor protein CI [Escherichia coli 3-020-07_S1_C3]
+Sequence ID: KDZ30662.1 Length: 237 >Repressor protein CI [Escherichia coli NCTC 50110]
+Sequence ID: KGL68536.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli O16:H48]
+Sequence ID: QEI90457.1 Length: 237 >cI857 [Cloning vector pAMP1_B]
+Sequence ID: QEV84029.1 Length: 237 >cI857 [Cloning vector pAMP1_C]
+Sequence ID: QEV84031.1 Length: 237 >cI857 [Cloning vector pAMP1_HisA]
+Sequence ID: QEV84033.1 Length: 237 >cI857 [Cloning vector pAMP1_HisA_HBVep_1]
+Sequence ID: QEV84035.1 Length: 237 >cI857 [Cloning vector pAMP1_HisA_HBVep_10]
+Sequence ID: QEV84038.1 Length: 237 >cI857 [Cloning vector pAMP1_HisA_HBVep_13]
+Sequence ID: QEV84041.1 Length: 237 >cI857 [Cloning vector pAMP1_HisA_HBVep_15]
+Sequence ID: QEV84044.1 Length: 237 >cI857 [Cloning vector pAMP1_HisA_HBVep_20]
+Sequence ID: QEV84047.1 Length: 237 >cI857 [Cloning vector pAMP1_HisA_HBVep_30]
+Sequence ID: QEV84050.1 Length: 237 >cI857 [Cloning vector pAMP1_HisA_HBVep_25opt]
+Sequence ID: QEV84052.1 Length: 237 >cI857 [Cloning vector pAMP1_HisA_HBVep_50opt]
+Sequence ID: QEV84055.1 Length: 237 >cI857 [Cloning vector pAMP1_HisA_HBVep_100opt]
+Sequence ID: QEV84058.1 Length: 237 >cI857 [Cloning vector pAMP1_HisA_HBVep_150opt]
+Sequence ID: QEV84061.1 Length: 237 >cI857 [Cloning vector pAMP1_HisA_HBVep_450opt]
+Sequence ID: QEV84064.1 Length: 237 >cI857 [Cloning vector pAMP1_HisB]
+Sequence ID: QEV84066.1 Length: 237 >cI857 [Cloning vector pAMP1_HisC]
+Sequence ID: QEV84068.1 Length: 237 >cI857 gene product [Cloning vector pAMP1_A]
+Sequence ID: QFG01723.1 Length: 237 >unnamed protein product [Vector pcI857]
+Sequence ID: SJL87219.1 Length: 237 >unnamed protein product [Vector pT7POL23]
+Sequence ID: SJL88517.1 Length: 237 >unnamed protein product [Vector pUCT7POL]
+Sequence ID: SJL88542.1 Length: 237 >unnamed protein product [Vector pPLi342]
+Sequence ID: SJL88891.1 Length: 237 >unnamed protein product [Vector pcI857CamSu]
+Sequence ID: SJL88943.1 Length: 237  
+Range 1: 1 to 237
+
+Score:462 bits(1188), Expect:6e-164, 
+Method:Compositional matrix adjust., 
+Identities:237/237(100%), Positives:237/237(100%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEU9355564.1 Length: 237 
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEU9368537.1 Length: 237  
+Range 1: 1 to 237
+
+Score:462 bits(1188), Expect:8e-164, 
+Method:Compositional matrix adjust., 
+Identities:236/237(99%), Positives:237/237(100%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPM+PCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMVPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>temperature-sensitive lambdaPL-repressor [Expression plasmid pJT-lambdaPl-cI-Amp]
+Sequence ID: AHA12293.1 Length: 237 
+Range 1: 1 to 237
+
+Score:461 bits(1186), Expect:1e-163, 
+Method:Compositional matrix adjust., 
+Identities:236/237(99%), Positives:237/237(100%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKP+FPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPNFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFB7574583.1 Length: 237 
+Range 1: 1 to 237
+
+Score:461 bits(1185), Expect:2e-163, 
+Method:Compositional matrix adjust., 
+Identities:236/237(99%), Positives:237/237(100%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCN+SCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNDSCSVVGKVIASQWPEETFG  237
+
+
+
+>cI857 [Expression vector pLZ2]
+Sequence ID: AID07481.1 Length: 237 
+Range 1: 1 to 237
+
+Score:461 bits(1185), Expect:2e-163, 
+Method:Compositional matrix adjust., 
+Identities:235/237(99%), Positives:236/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALL KILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLTKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQ+PMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQHPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>MULTISPECIES: LexA family transcriptional regulator [Bacteria]
+Sequence ID: WP_000104864.1 Length: 237 
+>lambda repressor [Cloning vector pNO3097]
+Sequence ID: AAA99919.1 Length: 237 >lambda repressor [Site-specific excision vector pFLP2]
+Sequence ID: AAC27033.1 Length: 237 >repressor protein [Cloning vector pWD42-09]
+Sequence ID: AAD28615.1 Length: 237 >lambda cI857 repressor [Cloning vector pWDYcos1.0.1]
+Sequence ID: AAD33415.1 Length: 237 >cI [CRIM helper plasmid pAH57]
+Sequence ID: AAL09847.1 Length: 237 >cI [CRIM helper plasmid pAH69]
+Sequence ID: AAL09855.1 Length: 237 >cI [CRIM helper plasmid pAH83]
+Sequence ID: AAL09862.1 Length: 237 >cI [CRIM helper plasmid pAH121]
+Sequence ID: AAL09870.1 Length: 237 >cI [CRIM helper plasmid pAH122]
+Sequence ID: AAL09874.1 Length: 237 >cI [CRIM helper plasmid pAH123]
+Sequence ID: AAL09879.1 Length: 237 >cI [CRIM helper plasmid pAH129]
+Sequence ID: AAL09883.1 Length: 237 >cI [CRIM helper plasmid pAH130]
+Sequence ID: AAL09888.1 Length: 237 >cI [CRIM helper plasmid pAH131]
+Sequence ID: AAL09892.1 Length: 237 >cI [CRIM helper plasmid pINT-ts]
+Sequence ID: AAL09915.1 Length: 237 >lambda repressor [Flp expression vector pFLP3]
+Sequence ID: AAT08997.1 Length: 237 >repressor [Broad host range Red recombinase expression vector pRKcIRed]
+Sequence ID: AAV68247.1 Length: 237 >CI [Cloning vector pCPP5264]
+Sequence ID: ABS87301.1 Length: 237 >cI857 [Triparental mating vector pCD13SK-Flp-oriT]
+Sequence ID: ABW06020.1 Length: 237 >CI857 [Cloning vector pFlpAB-3]
+Sequence ID: ABY57979.1 Length: 237 >CI857 [Cloning vector pFlpAB-4]
+Sequence ID: ABY57987.1 Length: 237 >CI857 [Flp expression vector pFlpAB-5]
+Sequence ID: ABY61785.1 Length: 237 >CI857 [Vector pCD13SK-Flp-oriT-Easd]
+Sequence ID: ACH42113.1 Length: 237 >CI857 [Cloning vector pFlp-AB7]
+Sequence ID: ACJ70060.1 Length: 237 >lambda repressor [Site-specific excision vector pBBR1_FLP2]
+Sequence ID: ACN91079.1 Length: 237 >repressor protein [Recombination vector pWY121]
+Sequence ID: AFA52012.1 Length: 237 >temperature-sensitive lambda-repressor [Cloning vector pQRBL]
+Sequence ID: AFA52015.1 Length: 237 >temperature-sensitive lambda-repressor [Expression vector pmET32a]
+Sequence ID: AFT65571.1 Length: 237 >lambda temperature sensitive repressor [Chromosomal integration vector pOSIP-CH]
+Sequence ID: AGN12493.1 Length: 237 >lambda temperature sensitive repressor [Chromosomal integration vector pOSIP-CO]
+Sequence ID: AGN12497.1 Length: 237 >lambda temperature sensitive repressor [Chromosomal integration vector pOSIP-CT]
+Sequence ID: AGN12501.1 Length: 237 >lambda temperature sensitive repressor [Chromosomal integration vector pOSIP-KH]
+Sequence ID: AGN12505.1 Length: 237 >lambda temperature sensitive repressor [Chromosomal integration vector pOSIP-KL]
+Sequence ID: AGN12509.1 Length: 237 >lambda temperature sensitive repressor [Chromosomal integration vector pOSIP-KO]
+Sequence ID: AGN12513.1 Length: 237 >lambda temperature sensitive repressor [Chromosomal integration vector pOSIP-KP]
+Sequence ID: AGN12517.1 Length: 237 >lambda temperature sensitive repressor [Chromosomal integration vector pOSIP-KT]
+Sequence ID: AGN12521.1 Length: 237 >lambda temperature sensitive repressor [Chromosomal integration vector pOSIP-TH]
+Sequence ID: AGN12525.1 Length: 237 >lambda temperature sensitive repressor [Chromosomal integration vector pOSIP-TO]
+Sequence ID: AGN12529.1 Length: 237 >lambda temperature sensitive repressor [Chromosomal integration vector pOSIP-TT]
+Sequence ID: AGN12533.1 Length: 237 >temperature-sensitive lambda-repressor protein [Expression vector pmET32b]
+Sequence ID: AHA82379.1 Length: 237 >repressor [Escherichia coli B]
+Sequence ID: AMH25889.1 Length: 237 >repressor [Escherichia coli K-12]
+Sequence ID: AMH34100.1 Length: 237 >cI857 [synthetic construct]
+Sequence ID: AQM36726.1 Length: 237 >ci857 [Cloning vector pRI857-BAC]
+Sequence ID: AQX17845.1 Length: 237 >cI857 [Cloning vector pRI857]
+Sequence ID: AQX17851.1 Length: 237 >clts857 [Cloning vector pANY3]
+Sequence ID: AWP40278.1 Length: 237 >temperature-sensitive lambda-repressor [Synthetic plasmid]
+Sequence ID: AZA07973.1 Length: 237 >cI857 repressor [Expression vector pSEVA2514]
+Sequence ID: AZB74564.1 Length: 237 >cI857 repressor [Expression vector pSEVA2314]
+Sequence ID: AZB74569.1 Length: 237 >cI857 repressor [Expression vector pSEVA2214]
+Sequence ID: AZB74572.1 Length: 237 >LexA family transcriptional regulator [Listeria monocytogenes]
+Sequence ID: EAA0182676.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Concord]
+Sequence ID: EAA8235204.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Muenchen]
+Sequence ID: EBM7483218.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Orion]
+Sequence ID: EBS0181365.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Richmond]
+Sequence ID: EBS0234461.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Anatum]
+Sequence ID: EBV8430861.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Mbandaka]
+Sequence ID: EBW8675345.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Typhimurium]
+Sequence ID: ECG5470058.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Derby]
+Sequence ID: ECI2436177.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Newport]
+Sequence ID: ECI2474174.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Enteritidis]
+Sequence ID: ECI2483514.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Infantis]
+Sequence ID: ECK8919589.1 Length: 237 >LexA family transcriptional regulator [Campylobacter jejuni]
+Sequence ID: ECM6533250.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Typhi]
+Sequence ID: ECX7061823.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Berta]
+Sequence ID: ECX7174173.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Schwarzengrund]
+Sequence ID: EDB6902019.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Brandenburg]
+Sequence ID: EDB6910442.1 Length: 237 >helix-turn-helix domain-containing protein [Salmonella enterica subsp. enterica serovar Corvallis]
+Sequence ID: EDD0332899.1 Length: 237 >helix-turn-helix domain-containing protein [Salmonella enterica subsp. enterica serovar Give]
+Sequence ID: EDD0360270.1 Length: 237 >LexA family transcriptional repressor [Salmonella enterica subsp. enterica serovar Senftenberg]
+Sequence ID: EDI2306184.1 Length: 237 >LexA family transcriptional repressor [Salmonella enterica subsp. enterica serovar Heidelberg]
+Sequence ID: EDI2315902.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Saintpaul]
+Sequence ID: EDN4705689.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Reading]
+Sequence ID: EDP1196310.1 Length: 237 >LexA family transcriptional repressor [Salmonella enterica subsp. enterica serovar Oranienburg]
+Sequence ID: EDP2105306.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Braenderup]
+Sequence ID: EDR0273238.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar 4,[5],12:i:-]
+Sequence ID: EDR6248150.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Inverness]
+Sequence ID: EDR9404112.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Mississippi]
+Sequence ID: EDS5872510.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Hadar]
+Sequence ID: EDT3231535.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica]
+Sequence ID: EDT6839943.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Sandiego]
+Sequence ID: EDU4456569.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Montevideo]
+Sequence ID: EEA0533353.1 Length: 237 >repressor protein CI [Tyzzerella nexilis DSM 1787]
+Sequence ID: EEA83575.1 Length: 237 >repressor protein CI [Capnocytophaga gingivalis ATCC 33624]
+Sequence ID: EEK13256.1 Length: 237 >repressor protein [Brucella pinnipedialis M163/99/10]
+Sequence ID: EEY08541.1 Length: 237 >repressor protein CI [Staphylococcus epidermidis SK135]
+Sequence ID: EFA87991.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli O157:H7]
+Sequence ID: EFC0567141.1 Length: 237 >repressor protein CI [Enterobacter cancerogenus ATCC 35316]
+Sequence ID: EFC53530.1 Length: 237 >repressor protein CI [Citrobacter youngae ATCC 29220]
+Sequence ID: EFE05340.1 Length: 237 >LexA repressor [Rhodococcus opacus PD630]
+Sequence ID: EHI41722.1 Length: 237 >helix-turn-helix domain-containing protein [Escherichia coli str. K-12 substr. MG1655]
+Sequence ID: MVX34163.1 Length: 237 >repressor [Xanthomonas oryzae pv. oryzae]
+Sequence ID: OLG53867.1 Length: 237 >LexA family transcriptional repressor [Xanthomonas oryzae pv. oryzicola]
+Sequence ID: PUE90235.1 Length: 237 >LexA family transcriptional repressor [Xanthomonas citri pv. malvacearum]
+Sequence ID: PUE90421.1 Length: 237 >LexA family transcriptional repressor [Xanthomonas hortorum pv. hederae]
+Sequence ID: PUF00018.1 Length: 237 >cI [Site-specific excision vector pFLP2A]
+Sequence ID: QBQ65845.1 Length: 237 >cI [Site-specific excision vector pFLP2Z]
+Sequence ID: QBQ65848.1 Length: 237 >temperature-sensitive lambda-repressor protein [Expression vector pmET32c]
+Sequence ID: QDK65275.1 Length: 237 >Cro/C1-type helix-turn-helix domain protein [Bacteriophage sp.]
+Sequence ID: QHJ77278.1 Length: 237 >cI875 repressor [Expression vector pSEVA2314-rec2-mutLE36KPP]
+Sequence ID: QIE07177.1 Length: 237 >cI875 repressor [Expression vector pSEVA2214-rec2-mutLE36KPP]
+Sequence ID: QIE07182.1 Length: 237 >cI857 repressor [Cloning vector pSEVA2514-rec2-mutLE36KPP]
+Sequence ID: QIP75691.1 Length: 237 >cI857 repressor [Cloning vector pSEVA2514-rec2]
+Sequence ID: QIP75698.1 Length: 237 >LexA family transcriptional regulator [Thiopseudomonas sp. 4R-3cl]
+Sequence ID: TFI19238.1 Length: 237 >repressor [Xanthomonas euvesicatoria pv. citrumelonis]
+Sequence ID: TKA16425.1 Length: 237 >unnamed protein product [Vector pT7POL26]
+Sequence ID: SJL88521.1 Length: 237 >unnamed protein product [Vector pcI857K1]
+Sequence ID: SJL88956.1 Length: 237 >heat-sensitive lambda citS857 repressor protein/VP16 fusion protein [Enterobacter sp. KINAN-G]
+Sequence ID: GBE69274.1 Length: 237  
+Range 1: 1 to 237
+
+Score:461 bits(1185), Expect:2e-163, 
+Method:Compositional matrix adjust., 
+Identities:235/237(99%), Positives:236/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALL KILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSP+LR
+Sbjct  61   YNAALLTKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPKLR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>temperature-sensitive lambda-repressor [Cloning vector pPL450]
+Sequence ID: BAE79430.1 Length: 237 
+>temperature-sensitive lambda-repressor [Cloning vector pPL451]
+Sequence ID: BAE79432.1 Length: 237 >temperature-sensitive lambda-repressor [Cloning vector pPL452]
+Sequence ID: BAE79434.1 Length: 237 >temperature-sensitive lambda-repressor [Cloning vector pCL476]
+Sequence ID: BAE79436.1 Length: 237 >temperature-sensitive lambda-repressor [Cloning vector pCL478]
+Sequence ID: BAE79438.1 Length: 237 >temperature-sensitive lambda-repressor [Cloning vector pND706]
+Sequence ID: BAE79440.1 Length: 237 >temperature-sensitive lambda-repressor [Cloning vector pND707]
+Sequence ID: BAE79442.1 Length: 237  
+Range 1: 1 to 237
+
+Score:461 bits(1185), Expect:2e-163, 
+Method:Compositional matrix adjust., 
+Identities:236/237(99%), Positives:237/237(100%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSP+LR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPKLR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_089626998.1 Length: 237 
+>LexA family transcriptional regulator [Escherichia coli O6]
+Sequence ID: EEZ5736201.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEQ2187507.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EES2368414.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEX2797449.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEY5100463.1 Length: 237  
+Range 1: 1 to 237
+
+Score:460 bits(1184), Expect:2e-163, 
+Method:Compositional matrix adjust., 
+Identities:236/237(99%), Positives:237/237(100%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAE+WVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAEKWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_001542706.1 Length: 237 
+>repressor protein CI [Escherichia coli KTE210]
+Sequence ID: ELD25268.1 Length: 237 >repressor protein CI [Escherichia coli 2-427-07_S1_C3]
+Sequence ID: KDY85215.1 Length: 237 >repressor [Escherichia coli]
+Sequence ID: KXK98745.1 Length: 237 >Phage repressor [Escherichia virus Lambda]
+Sequence ID: VUF53915.1 Length: 237  
+Range 1: 1 to 237
+
+Score:460 bits(1184), Expect:3e-163, 
+Method:Compositional matrix adjust., 
+Identities:236/237(99%), Positives:236/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQ VEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQTVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>CI857 repressor [Expression vector pS238D1.M]
+Sequence ID: QGN03481.1 Length: 243 
+Range 1: 1 to 237
+
+Score:461 bits(1185), Expect:3e-163, 
+Method:Compositional matrix adjust., 
+Identities:235/237(99%), Positives:236/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALL KILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSP+LR
+Sbjct  61   YNAALLTKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPKLR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_077150723.1 Length: 237 
+>LexA family transcriptional regulator [Escherichia coli O8:H28]
+Sequence ID: EFE2150001.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EET7202772.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEX9194104.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFD5837612.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFI3363401.1 Length: 237  
+Range 1: 1 to 237
+
+Score:460 bits(1184), Expect:3e-163, 
+Method:Compositional matrix adjust., 
+Identities:236/237(99%), Positives:237/237(100%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHV+AGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVRAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>MULTISPECIES: LexA family transcriptional regulator [Escherichia]
+Sequence ID: WP_001274755.1 Length: 237 
+>prophage repressor [Enterobacteria phage HK244]
+Sequence ID: ABO40681.1 Length: 237 >repressor protein CI [Escherichia coli 1.2741]
+Sequence ID: EIG83645.1 Length: 237 >repressor protein CI [Escherichia coli 3.3884]
+Sequence ID: EII57941.1 Length: 237 >repressor protein CI [Escherichia coli KTE6]
+Sequence ID: ELF43273.1 Length: 237 >repressor protein CI [Escherichia coli HVH 90 (4-3191362)]
+Sequence ID: EQQ14582.1 Length: 237 >repressor protein CI [Escherichia coli HVH 154 (4-5636698)]
+Sequence ID: EQS66542.1 Length: 237 >repressor protein CI [Escherichia coli HVH 202 (4-3163997)]
+Sequence ID: EQU36274.1 Length: 237 >repressor [Escherichia coli O111:NM str. 2009C-4006]
+Sequence ID: EZE34262.1 Length: 237  
+Range 1: 1 to 237
+
+Score:460 bits(1184), Expect:3e-163, 
+Method:Compositional matrix adjust., 
+Identities:236/237(99%), Positives:236/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_112909117.1 Length: 237 
+Range 1: 1 to 237
+
+Score:460 bits(1183), Expect:4e-163, 
+Method:Compositional matrix adjust., 
+Identities:236/237(99%), Positives:236/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQW EETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWSEETFG  237
+
+
+
+>MULTISPECIES: LexA family transcriptional regulator [Enterobacteriaceae]
+Sequence ID: WP_032200173.1 Length: 237 
+>repressor protein CI [Escherichia coli 2-316-03_S3_C2]
+Sequence ID: KDX99004.1 Length: 237 >repressor protein CI [Escherichia coli 2-316-03_S3_C3]
+Sequence ID: KDY02355.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFC7274118.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFE7402854.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFK6879074.1 Length: 237  
+Range 1: 1 to 237
+
+Score:459 bits(1182), Expect:5e-163, 
+Method:Compositional matrix adjust., 
+Identities:236/237(99%), Positives:236/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASD AFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDYAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_101348571.1 Length: 237 
+>repressor [synthetic Escherichia coli C321.deltaA]
+Sequence ID: AGX32903.1 Length: 237 >LexA family transcriptional repressor [Escherichia coli str. K-12 substr. MG1655]
+Sequence ID: AUG15565.1 Length: 237  
+Range 1: 1 to 237
+
+Score:459 bits(1182), Expect:6e-163, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:236/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALL KILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYE+PVFSHVQAGMFSPELR
+Sbjct  61   YNAALLTKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEHPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSV+GKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVMGKVIASQWPEETFG  237
+
+
+
+>helix-turn-helix domain-containing protein [Escherichia coli]
+Sequence ID: EFH6121722.1 Length: 237 
+>LexA family transcriptional repressor [Escherichia coli]
+Sequence ID: EFH8951907.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFN4690905.1 Length: 237 >LexA family transcriptional repressor [Escherichia coli]
+Sequence ID: MJF44319.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: HAI9483975.1 Length: 237  
+Range 1: 1 to 237
+
+Score:459 bits(1181), Expect:7e-163, 
+Method:Compositional matrix adjust., 
+Identities:236/237(99%), Positives:236/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLN QYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNQQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Streptococcus pneumoniae]
+Sequence ID: TXM00426.1 Length: 237 
+Range 1: 1 to 237
+
+Score:459 bits(1181), Expect:7e-163, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:236/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALL KILKVSVEEFSPSIAR+IYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSP+LR
+Sbjct  61   YNAALLTKILKVSVEEFSPSIARKIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPKLR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFA6104039.1 Length: 238 
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFN1210505.1 Length: 238  
+Range 1: 1 to 237
+
+Score:459 bits(1181), Expect:8e-163, 
+Method:Compositional matrix adjust., 
+Identities:235/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_089564540.1 Length: 237 
+>LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Hadar]
+Sequence ID: EBV7831656.1 Length: 237 >helix-turn-helix domain-containing protein [Salmonella enterica subsp. enterica serovar Schwarzengrund]
+Sequence ID: EDG6180414.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EAC1477342.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEU9521255.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEV6962977.1 Length: 237  
+Range 1: 1 to 237
+
+Score:459 bits(1181), Expect:9e-163, 
+Method:Compositional matrix adjust., 
+Identities:235/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSG VFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGHVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>helix-turn-helix domain-containing protein [Escherichia coli]
+Sequence ID: EFH6891559.1 Length: 237 
+Range 1: 1 to 237
+
+Score:459 bits(1180), Expect:1e-162, 
+Method:Compositional matrix adjust., 
+Identities:236/237(99%), Positives:236/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQA MFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAVMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>helix-turn-helix domain-containing protein [Escherichia coli]
+Sequence ID: WP_160537293.1 Length: 237 
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: MXE22969.1 Length: 237  
+Range 1: 1 to 237
+
+Score:459 bits(1180), Expect:1e-162, 
+Method:Compositional matrix adjust., 
+Identities:235/237(99%), Positives:236/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSM+PSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMRPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>MULTISPECIES: LexA family transcriptional regulator [Enterobacteriaceae]
+Sequence ID: WP_001274760.1 Length: 237 
+>prophage repressor CI [Escherichia virus HK97]
+Sequence ID: NP_037735.1 Length: 237 >prophage repressor [Escherichia phage mEp234]
+Sequence ID: YP_007112052.1 Length: 237 >prophage repressor [Enterobacteria phage HK106]
+Sequence ID: YP_007151717.1 Length: 237 >prophage repressor [Enterobacteria phage mEp234]
+Sequence ID: ABO40704.1 Length: 237 >repressor [Escherichia coli FAP1]
+Sequence ID: AIT33970.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica]
+Sequence ID: EAW1167808.1 Length: 237 >LexA family transcriptional repressor [Salmonella enterica subsp. enterica serovar Alachua]
+Sequence ID: EDH9727140.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli O25]
+Sequence ID: EEZ5728410.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli O171]
+Sequence ID: EEZ6013373.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli O49:H9]
+Sequence ID: EFA4124908.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli O99:H27]
+Sequence ID: EFA4148297.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli O177]
+Sequence ID: EFA8853846.1 Length: 237 >LexA family transcriptional regulator [Escherichia albertii]
+Sequence ID: EFC7614156.1 Length: 237 >repressor protein CI [Escherichia coli MS 119-7]
+Sequence ID: EFK43136.1 Length: 237 >Repressor protein CI from prophage [Escherichia coli cloneA_i1]
+Sequence ID: EHG00168.1 Length: 237 >repressor protein CI [Escherichia coli KTE44]
+Sequence ID: ELC63169.1 Length: 237 >Repressor protein CI from prophage [Salmonella enterica subsp. enterica serovar Newport str. JS09102]
+Sequence ID: EMG75099.1 Length: 237 >repressor protein CI [Escherichia coli 2762100]
+Sequence ID: EMW58128.1 Length: 237 >repressor protein CI [Escherichia coli 2731150]
+Sequence ID: EMW78947.1 Length: 237 >repressor protein CI [Escherichia coli HVH 33 (4-2174936)]
+Sequence ID: EQO33604.1 Length: 237 >repressor protein CI [Escherichia coli UMEA 3201-1]
+Sequence ID: EQX95969.1 Length: 237 >repressor protein CI [Escherichia coli 908675]
+Sequence ID: ESE13479.1 Length: 237 >repressor protein CI [Escherichia coli HVH 108 (4-6924867)]
+Sequence ID: ESP44099.1 Length: 237 >repressor protein CI [Escherichia coli HVH 23 (4-6066488)]
+Sequence ID: ETF28180.1 Length: 237 >repressor protein CI [Escherichia coli 1-110-08_S4_C3]
+Sequence ID: EYE00864.1 Length: 237 >repressor protein CI [Escherichia coli 1-110-08_S4_C2]
+Sequence ID: EYE01456.1 Length: 237 >repressor protein CI [Escherichia coli 1-176-05_S4_C1]
+Sequence ID: EZJ71459.1 Length: 237 >repressor protein CI [Escherichia coli 1-176-05_S4_C2]
+Sequence ID: KDA90155.1 Length: 237 >repressor protein CI [Escherichia coli 3-267-03_S1_C3]
+Sequence ID: KDT64260.1 Length: 237 >repressor protein CI [Escherichia coli 3-267-03_S3_C1]
+Sequence ID: KDT67888.1 Length: 237 >repressor protein CI [Escherichia coli 3-267-03_S1_C1]
+Sequence ID: KDU21170.1 Length: 237 >repressor protein CI [Escherichia coli 2-210-07_S3_C1]
+Sequence ID: KDX53777.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli K-12]
+Sequence ID: THH50511.1 Length: 237 >Repressor protein CI from prophage [Escherichia coli ED1a]
+Sequence ID: CAR07300.1 Length: 237 >predicted repressor protein [Escherichia coli O127:H6 str. E2348/69]
+Sequence ID: CAS10082.1 Length: 237 >Phage repressor [Escherichia coli IS5]
+Sequence ID: CDK52227.1 Length: 237 >repressor protein [Escherichia coli O127:H6]
+Sequence ID: SLM07483.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli O25b:H4-ST131]
+Sequence ID: HAI7765257.1 Length: 237  
+Range 1: 1 to 237
+
+Score:459 bits(1180), Expect:1e-162, 
+Method:Compositional matrix adjust., 
+Identities:235/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>lambda cI repressor (temperature sensitive) [Cloning vector pWAS]
+Sequence ID: AXN69964.1 Length: 237 
+>lambda cI repressor (temperature sensitive) [Cloning vector pWAS-anti-pabA]
+Sequence ID: AXN70069.1 Length: 237 >lambda cI repressor (temperature sensitive) [Cloning vector pWAS-anti-yfiD-anti-purB]
+Sequence ID: AXN70072.1 Length: 237 >lambda cI repressor (temperature sensitive) [Cloning vector pWAS-anti-fadR-anti-xapR]
+Sequence ID: AXN70075.1 Length: 237  
+Range 1: 1 to 237
+
+Score:459 bits(1180), Expect:1e-162, 
+Method:Compositional matrix adjust., 
+Identities:235/237(99%), Positives:237/237(100%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSP+LR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPKLR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVG+VIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGEVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_023307777.1 Length: 237 
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEY7045377.1 Length: 237 >repressor protein CI [Escherichia coli BWH 32]
+Sequence ID: ESM40900.1 Length: 237  
+Range 1: 1 to 237
+
+Score:459 bits(1180), Expect:1e-162, 
+Method:Compositional matrix adjust., 
+Identities:235/237(99%), Positives:236/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMY+AVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYKAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_136764200.1 Length: 237 
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEQ6922206.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEU0748035.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEV1656294.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFH8398070.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFI3572693.1 Length: 237  
+Range 1: 1 to 237
+
+Score:459 bits(1180), Expect:1e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YN+ALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNSALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_089519092.1 Length: 237 
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFD5748708.1 Length: 237 >helix-turn-helix domain-containing protein [Escherichia coli]
+Sequence ID: EFH3042780.1 Length: 237  
+Range 1: 1 to 237
+
+Score:459 bits(1180), Expect:1e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGIN+LNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINSLNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_137518088.1 Length: 237 
+>phage repressor protein CI [Escherichia coli]
+Sequence ID: GDI72708.1 Length: 237  
+Range 1: 1 to 237
+
+Score:459 bits(1180), Expect:1e-162, 
+Method:Compositional matrix adjust., 
+Identities:235/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSG VFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGHVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_040091922.1 Length: 237 
+>repressor [Escherichia coli]
+Sequence ID: KIG51683.1 Length: 237  
+Range 1: 1 to 237
+
+Score:459 bits(1180), Expect:1e-162, 
+Method:Compositional matrix adjust., 
+Identities:235/237(99%), Positives:236/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAE+WVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAEKWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_096319504.1 Length: 237 
+Range 1: 1 to 237
+
+Score:458 bits(1179), Expect:1e-162, 
+Method:Compositional matrix adjust., 
+Identities:235/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILXVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSG VFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGHVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>prophage repressor [Escherichia phage HK544]
+Sequence ID: YP_007151649.1 Length: 237 
+>prophage repressor [Escherichia phage HK544]
+Sequence ID: ABO40666.1 Length: 237 >prophage repressor [Escherichia phage HK544]
+Sequence ID: AFH20607.1 Length: 237  
+Range 1: 1 to 237
+
+Score:458 bits(1179), Expect:1e-162, 
+Method:Compositional matrix adjust., 
+Identities:236/237(99%), Positives:236/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKK LTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKLLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEY6114434.1 Length: 237 
+Range 1: 1 to 237
+
+Score:458 bits(1179), Expect:1e-162, 
+Method:Compositional matrix adjust., 
+Identities:235/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLK IYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKTIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_089584189.1 Length: 237 
+>LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Heidelberg]
+Sequence ID: ECW9222820.1 Length: 237  
+Range 1: 1 to 237
+
+Score:458 bits(1179), Expect:2e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNG+NALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGVNALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_106464549.1 Length: 237 
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFN0549356.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: NGD87751.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: NGD99423.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: NGE81918.1 Length: 237 >LexA family transcriptional repressor [Escherichia coli]
+Sequence ID: PSG49984.1 Length: 237  
+Range 1: 1 to 237
+
+Score:458 bits(1179), Expect:2e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLIL+DPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILIDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia albertii]
+Sequence ID: EFB2225358.1 Length: 237 
+>LexA family transcriptional regulator [Escherichia albertii]
+Sequence ID: EFC1831128.1 Length: 237 >LexA family transcriptional repressor [Escherichia albertii]
+Sequence ID: EFH8982541.1 Length: 237 >LexA family transcriptional regulator [Escherichia albertii]
+Sequence ID: EFI8958860.1 Length: 237 >LexA family transcriptional regulator [Escherichia albertii]
+Sequence ID: EFI9315918.1 Length: 237  
+Range 1: 1 to 237
+
+Score:458 bits(1179), Expect:2e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VS+EEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSIEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_057695464.1 Length: 237 
+>repressor [Escherichia coli]
+Sequence ID: KQI90982.1 Length: 237  
+Range 1: 1 to 237
+
+Score:458 bits(1179), Expect:2e-162, 
+Method:Compositional matrix adjust., 
+Identities:235/237(99%), Positives:236/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAE+WVSTTKKASDSAFWLEVEGNSMTAPTG KPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAEKWVSTTKKASDSAFWLEVEGNSMTAPTGYKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_097487432.1 Length: 237 
+Range 1: 1 to 237
+
+Score:458 bits(1178), Expect:2e-162, 
+Method:Compositional matrix adjust., 
+Identities:235/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTG KPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGYKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Streptococcus pneumoniae]
+Sequence ID: WP_101514270.1 Length: 237 
+>repressor [Streptococcus pneumoniae]
+Sequence ID: PLV75771.1 Length: 237  
+Range 1: 1 to 237
+
+Score:458 bits(1178), Expect:2e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLED RRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDERRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALL KILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSP+LR
+Sbjct  61   YNAALLTKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPKLR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_001767474.1 Length: 237 
+>repressor protein CI [Escherichia coli 174900]
+Sequence ID: EMZ63912.1 Length: 237  
+Range 1: 1 to 237
+
+Score:458 bits(1178), Expect:2e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:236/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQ+PMIPCNESCS+VGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQFPMIPCNESCSIVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Pseudomonas aeruginosa]
+Sequence ID: WP_134566181.1 Length: 237 
+Range 1: 1 to 237
+
+Score:458 bits(1178), Expect:2e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKN LGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNVLGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALL KILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSP+LR
+Sbjct  61   YNAALLTKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPKLR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>prophage repressor [Escherichia phage HK542]
+Sequence ID: YP_007151772.1 Length: 237 
+>prophage repressor [Escherichia phage HK542]
+Sequence ID: ABO40689.1 Length: 237 >prophage repressor [Escherichia phage HK542]
+Sequence ID: AFH20418.1 Length: 237  
+Range 1: 1 to 237
+
+Score:458 bits(1178), Expect:3e-162, 
+Method:Compositional matrix adjust., 
+Identities:235/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGL QESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLPQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_111990509.1 Length: 237 
+>Repressor protein CI [Escherichia coli]
+Sequence ID: SQX85941.1 Length: 237  
+Range 1: 1 to 237
+
+Score:457 bits(1177), Expect:3e-162, 
+Method:Compositional matrix adjust., 
+Identities:235/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTG KPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGYKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_106884058.1 Length: 237 
+>LexA family transcriptional regulator [Escherichia coli O157]
+Sequence ID: EFB5434355.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EED1136897.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEQ4438219.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEQ7415260.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEQ8456444.1 Length: 237  
+Range 1: 1 to 237
+
+Score:457 bits(1177), Expect:3e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVAD+MGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADRMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFN5213298.1 Length: 237 
+Range 1: 1 to 237
+
+Score:457 bits(1177), Expect:3e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALN 
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNP  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEV3195055.1 Length: 237 
+Range 1: 1 to 237
+
+Score:457 bits(1177), Expect:3e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDP+QAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPDQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_112037603.1 Length: 237 
+>Repressor protein CI [Escherichia coli]
+Sequence ID: SQZ51615.1 Length: 237  
+Range 1: 1 to 237
+
+Score:457 bits(1177), Expect:3e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWP+ETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPDETFG  237
+
+
+
+>helix-turn-helix domain-containing protein [Escherichia coli]
+Sequence ID: WP_148050695.1 Length: 237 
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EER6164661.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEX9412243.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEX9999311.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEY5197965.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEZ4809788.1 Length: 237  
+Range 1: 1 to 237
+
+Score:457 bits(1177), Expect:3e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTT+KASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTQKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>helix-turn-helix domain-containing protein [Salmonella enterica]
+Sequence ID: WP_143552539.1 Length: 237 
+>LexA family transcriptional regulator [Salmonella enterica subsp. enterica]
+Sequence ID: TRN69195.1 Length: 237  
+Range 1: 1 to 237
+
+Score:457 bits(1177), Expect:4e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALL KILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQA MFSP+LR
+Sbjct  61   YNAALLTKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAVMFSPKLR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_001274759.1 Length: 237 
+>repressor protein CI [Escherichia coli 2362-75]
+Sequence ID: EFR17996.1 Length: 237 >helix-turn-helix family protein [Escherichia coli DEC1A]
+Sequence ID: EHU07983.1 Length: 237 >helix-turn-helix family protein [Escherichia coli DEC1C]
+Sequence ID: EHU15308.1 Length: 237 >helix-turn-helix family protein [Escherichia coli DEC2B]
+Sequence ID: EHU44064.1 Length: 237 >helix-turn-helix family protein [Escherichia coli DEC2C]
+Sequence ID: EHU49023.1 Length: 237  
+Range 1: 1 to 237
+
+Score:457 bits(1176), Expect:4e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSV+GKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVMGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_001274758.1 Length: 237 
+>Repressor protein CI from prophage [Escherichia coli O104:H4 str. 2009EL-2050]
+Sequence ID: AFS57152.1 Length: 237 >Repressor protein CI from prophage [Escherichia coli O104:H4 str. 2011C-3493]
+Sequence ID: AFS74364.1 Length: 237 >Repressor protein CI from prophage [Escherichia coli O104:H4 str. 2009EL-2071]
+Sequence ID: AFS86404.1 Length: 237 >repressor [Escherichia coli O104:H4 str. C227-11]
+Sequence ID: AKE84315.1 Length: 237 >LexA family transcriptional repressor [Escherichia coli O104:H4]
+Sequence ID: ASF02291.1 Length: 237 >Repressor protein CI from prophage [Escherichia coli O104:H4 str. 01-09591]
+Sequence ID: EGR59947.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. C236-11]
+Sequence ID: EHF25961.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. 11-3677]
+Sequence ID: EHF41468.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. 11-4404]
+Sequence ID: EHF51669.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. 11-4522]
+Sequence ID: EHF54880.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. 11-4632 C1]
+Sequence ID: EHF56777.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. 11-4623]
+Sequence ID: EHF59938.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. 11-4632 C2]
+Sequence ID: EHF62515.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. 11-4632 C5]
+Sequence ID: EHF74381.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. 11-4632 C3]
+Sequence ID: EHF78844.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. 11-4632 C4]
+Sequence ID: EHF80173.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. 11-02030]
+Sequence ID: EKY84590.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. 11-02033-1]
+Sequence ID: EKY90991.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. 11-02092]
+Sequence ID: EKY96479.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. 11-02093]
+Sequence ID: EKZ01237.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. 11-02281]
+Sequence ID: EKZ08818.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. 11-02318]
+Sequence ID: EKZ10758.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. 11-02913]
+Sequence ID: EKZ16442.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. 11-03439]
+Sequence ID: EKZ20780.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. 11-03943]
+Sequence ID: EKZ22855.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. Ec11-9990]
+Sequence ID: EKZ31375.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. Ec11-9450]
+Sequence ID: EKZ32417.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. 11-04080]
+Sequence ID: EKZ32683.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. Ec11-4984]
+Sequence ID: EKZ43459.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. Ec11-4986]
+Sequence ID: EKZ47107.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. Ec11-4988]
+Sequence ID: EKZ54948.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. Ec11-5603]
+Sequence ID: EKZ62286.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. Ec11-4987]
+Sequence ID: EKZ62690.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. Ec11-5604]
+Sequence ID: EKZ67216.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. Ec11-6006]
+Sequence ID: EKZ76506.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. Ec12-0466]
+Sequence ID: EKZ80055.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. Ec12-0465]
+Sequence ID: EKZ85634.1 Length: 237 >repressor protein CI [Escherichia coli O104:H4 str. Ec11-9941]
+Sequence ID: EKZ89467.1 Length: 237 >Repressor protein CI from prophage [Escherichia coli O104:H4 str. E92/11]
+Sequence ID: EMS01694.1 Length: 237 >Repressor protein CI from prophage [Escherichia coli O104:H4 str. E112/10]
+Sequence ID: EMS04412.1 Length: 237 >repressor [Escherichia coli O104:H4 str. 2011EL-1675A]
+Sequence ID: EYX63519.1 Length: 237  
+Range 1: 1 to 237
+
+Score:457 bits(1176), Expect:4e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQ+FLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQMFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_021543246.1 Length: 237 
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFB4192266.1 Length: 237 >repressor protein CI [Escherichia coli HVH 200 (4-4449924)]
+Sequence ID: EQU29290.1 Length: 237  
+Range 1: 1 to 237
+
+Score:457 bits(1176), Expect:4e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKG+AERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGNAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_087895497.1 Length: 237 
+>LexA family transcriptional repressor [Escherichia coli]
+Sequence ID: ASG50828.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEW1716805.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEW2602857.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEW9260413.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFG2171133.1 Length: 237  
+Range 1: 1 to 237
+
+Score:457 bits(1176), Expect:4e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAE+WVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAEKWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>helix-turn-helix domain-containing protein [Escherichia coli]
+Sequence ID: EFH5657107.1 Length: 237 
+Range 1: 1 to 237
+
+Score:457 bits(1176), Expect:4e-162, 
+Method:Compositional matrix adjust., 
+Identities:233/237(98%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNG+NALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGVNALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPM+PCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMLPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_109552340.1 Length: 237 
+Range 1: 1 to 237
+
+Score:457 bits(1176), Expect:4e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASD AFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDCAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCN+SCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNDSCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEV9947429.1 Length: 237 
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEX2873026.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFA6059028.1 Length: 237 >helix-turn-helix domain-containing protein [Escherichia coli]
+Sequence ID: EFH3454079.1 Length: 237  
+Range 1: 1 to 237
+
+Score:457 bits(1176), Expect:5e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIY+KKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYKKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFD2582950.1 Length: 237 
+Range 1: 1 to 237
+
+Score:457 bits(1176), Expect:5e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCN+SCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNKSCSVVGKVIASQWPEETFG  237
+
+
+
+>MULTISPECIES: LexA family transcriptional regulator [Enterobacteriaceae]
+Sequence ID: WP_001716786.1 Length: 237 
+>repressor protein CI [Escherichia coli 2848050]
+Sequence ID: EMW23884.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EAC1535217.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EED0701915.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EED0748805.1 Length: 237 >helix-turn-helix domain-containing protein [Escherichia coli]
+Sequence ID: EEU9170209.1 Length: 237  
+Range 1: 1 to 237
+
+Score:457 bits(1176), Expect:5e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSG VFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGHVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFL5814902.1 Length: 237 
+Range 1: 1 to 237
+
+Score:457 bits(1176), Expect:5e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPM PCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMTPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Salmonella enterica]
+Sequence ID: EBF8713544.1 Length: 237 
+>LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Schwarzengrund]
+Sequence ID: EBO1744435.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica]
+Sequence ID: EBG4881071.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Schwarzengrund]
+Sequence ID: ECA5662359.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Schwarzengrund]
+Sequence ID: ECA6299060.1 Length: 237  
+Range 1: 1 to 237
+
+Score:457 bits(1176), Expect:5e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASD AFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDCAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSG VFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGHVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFC4703139.1 Length: 237 
+Range 1: 1 to 237
+
+Score:457 bits(1175), Expect:6e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYP+IPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPIIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_047662501.1 Length: 237 
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EER1333391.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEV9776588.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEW0897597.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFD0957093.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFD4130994.1 Length: 237  
+Range 1: 1 to 237
+
+Score:457 bits(1175), Expect:6e-162, 
+Method:Compositional matrix adjust., 
+Identities:233/237(98%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNG+NALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGVNALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSG VFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGHVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_134354271.1 Length: 237 
+>Repressor protein CI [Escherichia coli]
+Sequence ID: VFT59754.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: HAI5503755.1 Length: 237  
+Range 1: 1 to 237
+
+Score:457 bits(1175), Expect:6e-162, 
+Method:Compositional matrix adjust., 
+Identities:235/237(99%), Positives:236/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAER VSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERLVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQ+FLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQMFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>Chain A, Crystal Structure Of The Lambda Repressor [Escherichia virus Lambda]
+Sequence ID: 3BDN_A Length: 236 
+>Chain B, Crystal Structure Of The Lambda Repressor [Escherichia virus Lambda]
+Sequence ID: 3BDN_B Length: 236  
+Range 1: 1 to 236
+
+Score:457 bits(1175), Expect:6e-162, 
+Method:Compositional matrix adjust., 
+Identities:235/236(99%), Positives:235/236(99%), Gaps:0/236(0%)
+
+Query  4    STKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalnay  183
+            STKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNAY
+Sbjct  1    STKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNAY  60
+
+Query  184  naallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELRT  363
+            NAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELRT
+Sbjct  61   NAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELRT  120
+
+Query  364  FTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDFC  543
+            FTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDFC
+Sbjct  121  FTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDFC  180
+
+Query  544  IARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            IARLGGDEFTFKKLIR SGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  IARLGGDEFTFKKLIRGSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  236
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFD9711133.1 Length: 237 
+Range 1: 1 to 237
+
+Score:457 bits(1175), Expect:7e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASD AFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDCAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_098734044.1 Length: 237 
+>LexA family transcriptional repressor [Escherichia coli]
+Sequence ID: PGG38437.1 Length: 237  
+Range 1: 1 to 237
+
+Score:457 bits(1175), Expect:7e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAV MQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVCMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator, partial [Cronobacter sakazakii]
+Sequence ID: WP_088262628.1 Length: 235 
+>helix-turn-helix domain-containing protein, partial [Cronobacter sakazakii]
+Sequence ID: PUW96071.1 Length: 235 >LexA family transcriptional regulator, partial [Streptococcus pneumoniae]
+Sequence ID: TVW45417.1 Length: 235  
+Range 1: 1 to 235
+
+Score:457 bits(1175), Expect:7e-162, 
+Method:Compositional matrix adjust., 
+Identities:233/235(99%), Positives:234/235(99%), Gaps:0/235(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALL KILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSP+LR
+Sbjct  61   YNAALLTKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPKLR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEET  705
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEET
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEET  235
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_044720470.1 Length: 237 
+Range 1: 1 to 237
+
+Score:457 bits(1175), Expect:7e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            M  KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MRAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>helix-turn-helix domain-containing protein [Escherichia coli]
+Sequence ID: EFF1819221.1 Length: 237 
+Range 1: 1 to 237
+
+Score:457 bits(1175), Expect:7e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKP FPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPRFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFK2663426.1 Length: 237 
+Range 1: 1 to 237
+
+Score:457 bits(1175), Expect:7e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWV TTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVRTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_001274757.1 Length: 237 
+Range 1: 1 to 237
+
+Score:457 bits(1175), Expect:7e-162, 
+Method:Compositional matrix adjust., 
+Identities:233/237(98%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERW+STTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWISTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSG VFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGHVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>helix-turn-helix domain-containing protein [Escherichia coli]
+Sequence ID: EFH3680195.1 Length: 237 
+Range 1: 1 to 237
+
+Score:457 bits(1175), Expect:7e-162, 
+Method:Compositional matrix adjust., 
+Identities:233/237(98%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL +SVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNISVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSG VFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGHVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFA7470171.1 Length: 237 
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFA7670857.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFA7701966.1 Length: 237  
+Range 1: 1 to 237
+
+Score:457 bits(1175), Expect:8e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLR EYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRGEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEV6129391.1 Length: 237 
+Range 1: 1 to 237
+
+Score:456 bits(1174), Expect:8e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKK+ELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKSELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>helix-turn-helix domain-containing protein [Escherichia coli]
+Sequence ID: WP_152779046.1 Length: 237 
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFM8958271.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: MPV05998.1 Length: 237  
+Range 1: 1 to 237
+
+Score:456 bits(1174), Expect:9e-162, 
+Method:Compositional matrix adjust., 
+Identities:233/237(98%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNG+NALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGVNALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWL VEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLAVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_053904669.1 Length: 237 
+>Repressor protein CI [Escherichia coli]
+Sequence ID: CTZ97948.1 Length: 237  
+Range 1: 1 to 237
+
+Score:456 bits(1174), Expect:9e-162, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSF DGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFSDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>helix-turn-helix domain-containing protein [Escherichia coli]
+Sequence ID: WP_152952771.1 Length: 237 
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEQ1553726.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEV5726018.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: MQJ67502.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: NJU48947.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: NJU85037.1 Length: 237  
+Range 1: 1 to 237
+
+Score:456 bits(1174), Expect:1e-161, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAE+WVSTTKKASDSAFWLEVEGNSMTAPTG KPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAEKWVSTTKKASDSAFWLEVEGNSMTAPTGYKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFG3022993.1 Length: 237 
+Range 1: 1 to 237
+
+Score:456 bits(1174), Expect:1e-161, 
+Method:Compositional matrix adjust., 
+Identities:233/237(98%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGD+
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDY  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQ+FLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQMFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFN6186449.1 Length: 237 
+Range 1: 1 to 237
+
+Score:456 bits(1174), Expect:1e-161, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMI CNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIACNESCSVVGKVIASQWPEETFG  237
+
+
+
+>MULTISPECIES: LexA family transcriptional regulator [Enterobacteriaceae]
+Sequence ID: WP_047671703.1 Length: 237 
+>LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Agona]
+Sequence ID: EBU7968811.1 Length: 237 >LexA family transcriptional regulator [Salmonella enterica subsp. enterica serovar Derby]
+Sequence ID: ECW7086449.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFA3716303.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFM9975969.1 Length: 237 >repressor [Escherichia coli]
+Sequence ID: KHI91658.1 Length: 237  
+Range 1: 1 to 237
+
+Score:456 bits(1174), Expect:1e-161, 
+Method:Compositional matrix adjust., 
+Identities:233/237(98%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVAD+MGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADRMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSG VFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGHVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_115333352.1 Length: 238 
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFC4278795.1 Length: 238 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFK6683895.1 Length: 238 >Repressor protein CI [Escherichia coli]
+Sequence ID: STN84447.1 Length: 238  
+Range 1: 1 to 237
+
+Score:456 bits(1174), Expect:1e-161, 
+Method:Compositional matrix adjust., 
+Identities:233/237(98%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYP++PCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPILPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_064638121.1 Length: 237 
+>repressor [Escherichia coli]
+Sequence ID: ANJ34347.1 Length: 237  
+Range 1: 1 to 237
+
+Score:456 bits(1173), Expect:1e-161, 
+Method:Compositional matrix adjust., 
+Identities:232/237(98%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNG+NALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGVNALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKL+RDSG VFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLVRDSGHVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_001274761.1 Length: 237 
+>repressor protein CI [Escherichia coli MS 84-1]
+Sequence ID: EFJ84731.1 Length: 237 >repressor protein CI [Escherichia coli MS 124-1]
+Sequence ID: EFK68415.1 Length: 237 >repressor protein CI [Escherichia coli MS 85-1]
+Sequence ID: EFU37677.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEV9288928.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFD1702257.1 Length: 237  
+Range 1: 1 to 237
+
+Score:456 bits(1173), Expect:1e-161, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTG KPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGYKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_032192607.1 Length: 237 
+>repressor [Escherichia coli E1728]
+Sequence ID: EZG32447.1 Length: 237  
+Range 1: 1 to 237
+
+Score:456 bits(1173), Expect:1e-161, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTT KASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTIKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>heat-sensitive lambda citS857 repressor protein/VP16 fusion protein [synthetic construct]
+Sequence ID: AAN86071.1 Length: 367 
+Range 1: 1 to 237
+
+Score:461 bits(1186), Expect:1e-161, 
+Method:Compositional matrix adjust., 
+Identities:235/237(99%), Positives:236/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALL KILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSP+LR
+Sbjct  61   YNAALLTKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPKLR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_062891499.1 Length: 237 
+>repressor [Escherichia coli]
+Sequence ID: KYW77863.1 Length: 237  
+Range 1: 1 to 237
+
+Score:456 bits(1173), Expect:2e-161, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMI CNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIQCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_032235865.1 Length: 237 
+>repressor protein CI [Escherichia coli 1-176-05_S4_C3]
+Sequence ID: EZJ24971.1 Length: 237  
+Range 1: 1 to 237
+
+Score:456 bits(1172), Expect:2e-161, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPE TFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEGTFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_001274753.1 Length: 237 
+>helix-turn-helix family protein [Escherichia coli DEC1B]
+Sequence ID: EHU17984.1 Length: 237  
+Range 1: 1 to 237
+
+Score:456 bits(1172), Expect:2e-161, 
+Method:Compositional matrix adjust., 
+Identities:233/237(98%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKK+NELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKENELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSV+GKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVMGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEZ5952049.1 Length: 237 
+>helix-turn-helix domain-containing protein [Escherichia coli]
+Sequence ID: EFH7680294.1 Length: 237 >LexA family transcriptional repressor [Escherichia coli]
+Sequence ID: EFH8223133.1 Length: 237  
+Range 1: 1 to 237
+
+Score:456 bits(1172), Expect:2e-161, 
+Method:Compositional matrix adjust., 
+Identities:233/237(98%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASD AFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDCAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCN+SCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNDSCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEU2274019.1 Length: 237 
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFI9734238.1 Length: 237  
+Range 1: 1 to 237
+
+Score:456 bits(1172), Expect:2e-161, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFP GMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPGGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>helix-turn-helix domain-containing protein [Escherichia coli]
+Sequence ID: EFF9755079.1 Length: 237 
+>helix-turn-helix domain-containing protein [Escherichia coli]
+Sequence ID: EFH3172031.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFM3862191.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFM6126342.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: MGU41607.1 Length: 237  
+Range 1: 1 to 237
+
+Score:455 bits(1171), Expect:2e-161, 
+Method:Compositional matrix adjust., 
+Identities:233/237(98%), Positives:233/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQ VEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQTVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSG VFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGHVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_108919115.1 Length: 237 
+>LexA family transcriptional repressor [Escherichia coli]
+Sequence ID: AWJ06311.1 Length: 237  
+Range 1: 1 to 237
+
+Score:455 bits(1171), Expect:2e-161, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLG DEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESC VVGKVIASQWPEETFG
+Sbjct  181  CIARLGSDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCPVVGKVIASQWPEETFG  237
+
+
+
+>MULTISPECIES: LexA family transcriptional regulator [Escherichia]
+Sequence ID: WP_001274763.1 Length: 237 
+>prophage repressor [Enterobacteria phage CL707]
+Sequence ID: ABO40696.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli O101]
+Sequence ID: EEZ6029913.1 Length: 237 >repressor protein CI [Escherichia coli MS 182-1]
+Sequence ID: EFK04480.1 Length: 237 >LexA family transcriptional repressor [Escherichia coli]
+Sequence ID: AUY80930.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEY8759223.1 Length: 237  
+Range 1: 1 to 237
+
+Score:455 bits(1171), Expect:2e-161, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTK DAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKVDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional repressor [Escherichia coli]
+Sequence ID: HAJ0507885.1 Length: 237 
+Range 1: 1 to 237
+
+Score:455 bits(1171), Expect:3e-161, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLG DEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGCDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_094304632.1 Length: 237 
+>LexA family transcriptional repressor [Shigella boydii]
+Sequence ID: OYG70438.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: QCD08408.1 Length: 237  
+Range 1: 1 to 237
+
+Score:455 bits(1171), Expect:3e-161, 
+Method:Compositional matrix adjust., 
+Identities:234/237(99%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPS RSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSPRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFC1982452.1 Length: 237 
+Range 1: 1 to 237
+
+Score:455 bits(1171), Expect:3e-161, 
+Method:Compositional matrix adjust., 
+Identities:232/237(98%), Positives:235/237(99%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNG+NALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGVNALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQ+FLQPLNPQYP+IPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQMFLQPLNPQYPIIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>MULTISPECIES: LexA family transcriptional regulator [Enterobacteriaceae]
+Sequence ID: WP_053290081.1 Length: 237 
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: AYN90902.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EAA2070509.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEV5809733.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EEW1933680.1 Length: 237 >LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: EFA3908715.1 Length: 237  
+Range 1: 1 to 237
+
+Score:455 bits(1170), Expect:3e-161, 
+Method:Compositional matrix adjust., 
+Identities:233/237(98%), Positives:234/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAR+IYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIARDIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASD AFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDYAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+>LexA family transcriptional regulator [Bifidobacterium bifidum]
+Sequence ID: WP_035137677.1 Length: 241 
+Range 1: 8 to 241
+
+Score:455 bits(1171), Expect:3e-161, 
+Method:Compositional matrix adjust., 
+Identities:232/234(99%), Positives:233/234(99%), Gaps:0/234(0%)
+
+Query  10   KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalnayna  189
+            KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNAYNA
+Sbjct  8    KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNAYNA  67
+
+Query  190  allaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELRTFT  369
+            ALL KILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSP+LRTFT
+Sbjct  68   ALLTKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPKLRTFT  127
+
+Query  370  KGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDFCIA  549
+            KGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDFCIA
+Sbjct  128  KGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDFCIA  187
+
+Query  550  RLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            RLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  188  RLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  241
+
+
+
+>LexA family transcriptional regulator [Escherichia coli]
+Sequence ID: WP_097563657.1 Length: 237 
+Range 1: 1 to 237
+
+Score:455 bits(1170), Expect:3e-161, 
+Method:Compositional matrix adjust., 
+Identities:232/237(98%), Positives:233/237(98%), Gaps:0/237(0%)
+
+Query  1    MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGInalna  180
+            MS KKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNG+NALNA
+Sbjct  1    MSAKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGVNALNA  60
+
+Query  181  ynaallaKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  360
+            YNAALLAKIL VSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR
+Sbjct  61   YNAALLAKILNVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELR  120
+
+Query  361  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDF  540
+            TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAP GSKPSFPDGMLILVDPEQAVEPGDF
+Sbjct  121  TFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPAGSKPSFPDGMLILVDPEQAVEPGDF  180
+
+Query  541  CIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  711
+            CIARLGGDEFTFKKLIRDSG VFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG
+Sbjct  181  CIARLGGDEFTFKKLIRDSGHVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETFG  237
+
+
+
+
+
+
+
+		
+
+
