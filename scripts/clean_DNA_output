@@ -1,0 +1,9 @@
+
+8 sequences and 20 positions in the first alignment file:
+alignment.fasta
+
+alignment.fasta
+Original alignment: 20 positions
+Gblocks alignment:  12 positions (60 %) in 1 selected block(s)
+
+srun: error: bigterra152: task 0: Exited with exit code 1
